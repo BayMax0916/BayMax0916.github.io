@@ -54,7 +54,7 @@ My research interest includes neural machine translation and computer vision. I 
 
     
     <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
-      <img src="../images/TMTT2024.JPG" alt="Diagram" style="width: 300px;">
+      <img src="../images/TMTT2024.svg" alt="Diagram" style="width: 300px;">
       <div style="
         position: absolute;
         top: 0px;
@@ -68,8 +68,6 @@ My research interest includes neural machine translation and computer vision. I 
       ">T-MTT</div>
     </div>
 
-
-    <!-- 文字部分 -->
     <div style="flex: 1;">
       <h2 style="margin: 0;">
         <a href="https://ieeexplore.ieee.org/document/10443219/" style="color: black; text-decoration: none;">
