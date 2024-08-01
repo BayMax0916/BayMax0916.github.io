@@ -61,7 +61,7 @@ My research interest includes neural machine translation and computer vision. I 
 
   
 
-- [Target Detection With Short-Range FMCW Radar Based on Time–Frequency Characteristic-Based Leakage Cancellation Technique](https://ieeexplore.ieee.org/document/10443219/), **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu*, Junfa Mao, ***IEEE Transactions on Microwave Theory and Techniques, 2024***
+- [Target Detection With Short-Range FMCW Radar Based on Time–Frequency Characteristic-Based Leakage Cancellation Technique](https://ieeexplore.ieee.org/document/10443219/), **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu\*, Junfa Mao, ***IEEE Transactions on Microwave Theory and Techniques, 2024***
 
 # 🎖 Honors and Awards (Selected)
 - *2024.07* Jiachi Yang Academician Scholarship
