@@ -80,42 +80,27 @@ My research interest includes neural machine translation and computer vision. I 
 
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+
+  <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/TMTT20242.png" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">T-MTT</div>
+  </div>
+
 
 
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">T-MTT</span> [Target Detection With Short-Range FMCW Radar Based on Time–Frequency Characteristic-Based Leakage Cancellation Technique.](https://ieeexplore.ieee.org/document/10443219/)
   **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu\*, Junfa Mao, ***IEEE Transactions on Microwave Theory and Techniques, 2024***
-
-- <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
-      <img src="../images/TMTT2024.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
-      <div style="
-        position: absolute;
-        top: 0px;
-        left: 0px;
-        background-color: #00369F; /* 背景颜色 */
-        color: white; /* 字体颜色 */
-        padding: 2px 6px; /* 内边距 */
-        border-radius: 3px; /* 圆角 */
-        font-size: 14px; /* 字体大小 */
-        font-weight: bold;
-      ">T-MTT</div>
-    </div>
-
-    <div style="flex: 1;">
-      <h2 style="margin: 0;">
-        <a href="https://ieeexplore.ieee.org/document/10443219/" style="color: black; text-decoration: none;">
-          Target Detection With Short-Range FMCW Radar Based on Time–Frequency Characteristic-Based Leakage Cancellation Technique
-        </a>
-      </h2>
-      <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Zhiwei Zhang, Yuchen Li, Changzhan Gu*, Junfa Mao</p>
-      <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2024</strong></em></p>
-      <ul style="list-style-type: disc; padding-left: 20px;margin-top: 0;">
-        <li>This work has been deployed on many TikTok products.</li>
-        <li>Advanced zero-shot voice cloning model.</li>
-      </ul>
-    </div>
-
-  </div>
 
 # 🎖 Honors and Awards (Selected)
 - *2024.07* Jiachi Yang Academician Scholarship
