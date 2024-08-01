@@ -49,7 +49,39 @@ My research interest includes neural machine translation and computer vision. I 
 
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">T-MTT</span> [Target Detection With Short-Range FMCW Radar Based on Time–Frequency Characteristic-Based Leakage Cancellation Technique.](https://ieeexplore.ieee.org/document/10443219/)
   **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu\*, Junfa Mao, ***IEEE Transactions on Microwave Theory and Techniques, 2024***
+
 - 
+
+- <div style="display: flex; align-items: center; margin-bottom: 20px;">
+
+    <!-- 图片和徽章部分 -->
+    <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+      <img src="../images/500x300.png" alt="Diagram" style="width: 300px;">
+      <div style="
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background-color: #0033cc; /* 背景颜色 */
+        color: white; /* 字体颜色 */
+        padding: 2px 6px; /* 内边距 */
+        border-radius: 3px; /* 圆角 */
+        font-size: 14px; /* 字体大小 */
+        font-weight: bold;
+      ">ICLR 2024</div>
+    </div>
+
+
+    <!-- 文字部分 -->
+    <div style="flex: 1;">
+      <h2 style="margin: 0;">Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis</h2>
+      <p style="margin: 0;">Ziyue Jiang, Jinglin Liu, <strong>Yi Ren</strong>, et al.</p>
+      <p><a href="link-to-project-page" style="color: #0033cc; text-decoration: none; font-weight: bold;">Project</a></p>
+      <ul>
+        <li>This work has been deployed on many TikTok products.</li>
+        <li>Advanced zero-shot voice cloning model.</li>
+      </ul>
+    </div>
+  </div>
 
 # 🎖 Honors and Awards (Selected)
 - *2024.07* Jiachi Yang Academician Scholarship
