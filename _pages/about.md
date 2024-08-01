@@ -24,10 +24,15 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 
 - *2022.09 - Present*, *Ph.D* in Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China
+
   State Key Laboratory of Radio Frequency Heterogeneous Integration
+
   Supervisor: *Prof. Junfa Mao* (*Academician of CAS*) and *Prof. Changzhan Gu*
+
 - *2018.09 - 2022.06*, *B.S.* in electromagnetic field and wireless technology, Xidian University, Shaanxi, China
+  
   National Key Laboratory of Radar Detection and Sensing
+  
   Supervisor: *Prof. Ying Liu*, *GPA: 3.96/4.00, Grade: 96.3/100, rank: 1/33*
 
 # 🔥 News
