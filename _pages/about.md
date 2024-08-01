@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 
   Supervisor: [*Prof. Junfa Mao*](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (*Academician of CAS*) and [*Prof. Changzhan Gu*]([微波无线感知 (sjtu.edu.cn)](https://changzhan.sjtu.edu.cn/))
 
-- *2018.09 - 2022.06*, *B.S.* in electromagnetic field and wireless technology, Xidian University, Shaanxi, China
+- *2018.09 - 2022.06*, *B.S.* in Electromagnetic field and wireless technology, Xidian University, Shaanxi, China
   
   National Key Laboratory of Radar Detection and Sensing
   
@@ -37,8 +37,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 I am greatly honored to receive the Jiachi Yang Academician Scholarship. 
+- *2024.07*: &nbsp;🎉🎉 One paper (first author) on non-contact vital sign detection for multiple persons at short-range is accepted by ACES-China2024!
+- *2024.03*: &nbsp;🎉🎉 One paper (first author) on millimeter-wave radar real-time human positioning system is accepted by ICMMT2024! 
+- *2024.03*: &nbsp;🎉🎉 Two papers on millimeter-wave radar motion sensing are accepted by IWS2024! They won the IEEE MTT-S Flash Competition second place and the MVC Competition third place, respectively! Congrats to Zhiwei and Keke!  
+- *2024.03*: &nbsp;🎉🎉 One paper on millimeter-wave radar motion sensing is accepted by T-MTT! Congrats to Zhiwei!
+- *2024.02*: &nbsp;🎉🎉 One paper on Low-IF doppler radar is accepted by IMS2024! Congrats to Zhiwei!
+- *2024.01*: &nbsp;🎉🎉 One paper on RF leakage suppression for FMCW radar indoor sensing is accepted by T-MTT!
 
 # 📝 Publications 
 
@@ -56,13 +61,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+# 🎖 Honors and Awards (Selected)
+- *2024.07* Jiachi Yang Academician Scholarship
+- *2022.06* Outstanding Graduates of Shaanxi Province
+- *2022.06* Campus Talent Ambassador of Xidian University
+- *2021.09* First Prize Scholarship and Outstanding Student of Xidian University
+- *2020.09* National Scholarship
+- *2020.09* First Prize of “2-781” Scholarship at Xidian University
+- *2020.09* First Prize Scholarship and Outstanding Student of Xidian University
+- *2019.09* First Prize Scholarship and Outstanding Student of Xidian University
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic activities
+- *2023.03 - Present*, Academic Director of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society.
