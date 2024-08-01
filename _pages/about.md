@@ -47,6 +47,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+
   <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/TMTT2024.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
     <div style="
@@ -77,6 +79,8 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
 
 </div>
+
+
 
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">T-MTT</span> [Target Detection With Short-Range FMCW Radar Based on Time–Frequency Characteristic-Based Leakage Cancellation Technique.](https://ieeexplore.ieee.org/document/10443219/)
   **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu\*, Junfa Mao, ***IEEE Transactions on Microwave Theory and Techniques, 2024***
