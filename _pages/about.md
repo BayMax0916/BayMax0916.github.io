@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
   
   National Key Laboratory of Radar Detection and Sensing
   
-  Supervisor: [*Prof. Ying Liu*](https://web.xidian.edu.cn/liuying/), *GPA: 3.96/4.00, Grade: 96.3/100, rank: 1/33*
+  Supervisor: [*Prof. Ying Liu*](https://web.xidian.edu.cn/liuying/), *GPA: 3.96/4.00, Grade: 96.3/100, rank: 1/33* (The highest score since the establishment of the major)
 
 # 🔥 News
 
@@ -43,23 +43,25 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.03*: &nbsp;🎉🎉 Two papers on millimeter-wave radar motion sensing are accepted by IWS2024! They won the IEEE MTT-S Flash Competition second place and the MVC Competition third place, respectively! Congrats to Zhiwei and Keke!  
 - *2024.03*: &nbsp;🎉🎉 One paper on millimeter-wave radar motion sensing is accepted by T-MTT! Congrats to Zhiwei!
 - *2024.02*: &nbsp;🎉🎉 One paper on Low-IF doppler radar is accepted by IMS2024! Congrats to Zhiwei!
-- *2024.01*: &nbsp;🎉🎉 One paper on RF leakage suppression for FMCW radar indoor sensing is accepted by T-MTT!
+- *2024.01*: &nbsp;🎉🎉 One paper (first author) on RF leakage suppression for FMCW radar indoor sensing is accepted by T-MTT!
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  </div>
+  </div>
+
+  <div class='paper-box'>   <div class='paper-box-image'>     <div class="badge">CVPR 2016</div>   </div>   <div class='paper-box-text' markdown="1"> </div> </div>
+
+- [Target Detection With Short-Range FMCW Radar Based on Time–Frequency Characteristic-Based Leakage Cancellation Technique](https://ieeexplore.ieee.org/document/10443219/), **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu*, Junfa Mao, ***IEEE Transactions on Microwave Theory and Techniques, 2024***
 
 # 🎖 Honors and Awards (Selected)
 - *2024.07* Jiachi Yang Academician Scholarship
@@ -72,4 +74,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.09* First Prize Scholarship and Outstanding Student of Xidian University
 
 # 💻 Academic activities
-- *2023.03 - Present*, Academic Director of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society.
+- *2023.03 - Present*, Academic Director of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society
