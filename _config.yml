@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiayu Zhang(张嘉宇)"
-description              : "PhD student at Shanghai Jiao Tong University, State Key Laboratory of Radio Frequency Heterogeneous Integration, focusing on 4-D millimeter-wave radar systems and perception algorithms. "
+description              : "PhD student at Shanghai Jiao Tong University, State Key Laboratory of Radio Frequency Heterogeneous Integration, focusing on 4-D millimeter-wave radar systems and sensing algorithms. "
 repository               : "BayMax0916/BayMax0916.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/BayMax0916" # e.g., "github username"
+  github           : "github BayMax0916" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/baymax0916/" # e.g., "linkedin username"
+  linkedin         : #"linkedin baymax0916" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-7658-0370" # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0007-7658-0370" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
