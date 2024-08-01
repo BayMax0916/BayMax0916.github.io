@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year PhD student at the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) at Shanghai Jiao Tong University<img src="..\images\SJTU.png" alt="SJTU" style="zoom:25%;" /> of China, where I am advised by [Prof. Junfa Mao](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (Academician of CAS) and [Prof. Changzhan Gu](https://changzhan.sjtu.edu.cn/). Before that, I got my bachelor's degree at [Xidian University](https://www.xidian.edu.cn/)
+I am currently a second-year PhD student at the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) at Shanghai Jiao Tong University of China, where I am advised by [Prof. Junfa Mao](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (Academician of CAS) and [Prof. Changzhan Gu](https://changzhan.sjtu.edu.cn/). Before that, I got my bachelor's degree at [Xidian University](https://www.xidian.edu.cn/), advised by [Prof. Ying Liu](https://web.xidian.edu.cn/liuying/). During my undergraduate studies, I ranked first in my major, achieved the highest score since the establishment of the major, and was directly admitted to the Ph.D.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have received over ten honors and awards, including the National Scholarship, Outstanding Graduate of Shaanxi Province, and the Jiachi Yang Academician Scholarship. In competitions, I have won ten provincial and higher-level awards.
+
+My research interest includes 4-D millimeter-wave radar systems and sensing algorithms. I have published more than 10 papers and I have been involved in projects such as National Key R&D Program of China, Natural Science Foundation of China, and collaborations with Huawei and universities.
 
 # 📖 Educations
 
