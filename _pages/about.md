@@ -27,13 +27,13 @@ My research interest includes neural machine translation and computer vision. I 
 
   State Key Laboratory of Radio Frequency Heterogeneous Integration
 
-  Supervisor: *Prof. Junfa Mao* (*Academician of CAS*) and *Prof. Changzhan Gu*
+  Supervisor: [*Prof. Junfa Mao*](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (*Academician of CAS*) and [*Prof. Changzhan Gu*]([微波无线感知 (sjtu.edu.cn)](https://changzhan.sjtu.edu.cn/))
 
 - *2018.09 - 2022.06*, *B.S.* in electromagnetic field and wireless technology, Xidian University, Shaanxi, China
   
   National Key Laboratory of Radar Detection and Sensing
   
-  Supervisor: *Prof. Ying Liu*, *GPA: 3.96/4.00, Grade: 96.3/100, rank: 1/33*
+  Supervisor: [*Prof. Ying Liu*](https://web.xidian.edu.cn/liuying/), *GPA: 3.96/4.00, Grade: 96.3/100, rank: 1/33*
 
 # 🔥 News
 
