@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D student in the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) at Shanghai Jiao Tong University of China, where I am advised by [Prof. Junfa Mao](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (Academician of CAS) and [Prof. Changzhan Gu](https://changzhan.sjtu.edu.cn/). Before that, I got my bachelor's degree at [Xidian University](https://www.xidian.edu.cn/), advised by [Prof. Ying Liu](https://web.xidian.edu.cn/liuying/). During my undergraduate studies, I ranked first in my major, achieved the highest score since the establishment of the major, and was directly admitted to the Ph.D.
+I am currently a second-year Ph.D student in the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) at Shanghai Jiao Tong University of China, where I am supervised by [Prof. Junfa Mao](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (Academician of CAS) and [Prof. Changzhan Gu](https://changzhan.sjtu.edu.cn/). Before that, I got my bachelor's degree at [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Ying Liu](https://web.xidian.edu.cn/liuying/). During my undergraduate studies, I ranked first in my major, achieved the highest score since the establishment of the major, and was directly admitted to the Ph.D.
 
-I have received over ten honors and awards, including the National Scholarship, Outstanding Graduate of Shaanxi Province, and the Jiachi Yang Academician Scholarship. In competitions, I have won ten provincial and higher-level awards.
+I have received over ten honors and awards, including the National Scholarship, Outstanding Graduate of Shaanxi Province, the Jiachi Yang Academician Scholarship and so on. In competitions, I have won ten provincial and higher-level awards.
 
-My research interest includes 4-D millimeter-wave MIMO radar systems and sensing algorithms. I have published more than 10 papers and I have been involved in projects such as National Key R&D Program of China, Natural Science Foundation of China, and collaborations with Huawei and universities.
+My research interests include 4-D millimeter-wave MIMO radar systems and sensing algorithms. I have published more than 10 papers and I have been involved in projects such as National Key R&D Program of China, Natural Science Foundation of China, and collaborations with Huawei and universities.
 
 # 📖 Educations
 
@@ -167,7 +167,7 @@ My research interest includes 4-D millimeter-wave MIMO radar systems and sensing
 
 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 - *2024.07* Jiachi Yang Academician Scholarship
 - *2022.06* Outstanding Graduates of Shaanxi Province
