@@ -157,8 +157,9 @@ My research interest includes 4-D millimeter-wave MIMO radar systems and sensing
       </a>
     </h2>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
-      <li>This technology can be applied to FMCW radar for short-range detection and RF leakage suppression.</li>
-      <li>Utilizing time-frequency Characteristics and equivalent FMCW radar technology can improve SIR and SNR by 30 dB and 17 dB, respectively.</li>
+      <li>The system uses ADF5901, ADF5904, and ADF4159 chips for the RF design, enabling FMCW or CW operating modes.</li>
+      <li>Using an improved genetic algorithm for array layout design to achieve a 2T4R sparse arrangement, resulting in a 30% improvement in resolution compared to traditional layouts. The side lobe level is below -8 dB, and the FOV is within -45° to 45°.</li>
+      <li>This system can be used for indoor positioning and multi-person point cloud trajectory tracking.</li>
     </ul>
   </div>
 
