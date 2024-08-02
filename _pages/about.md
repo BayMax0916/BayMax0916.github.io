@@ -131,7 +131,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2023</span> [A Receiver Reconfigurable Method for Indoor Human Detection with 60GHz MIMO FMCW Radar](https://ieeexplore.ieee.org/document/10222158), Wenjie Li, Yuchen Li, **Jiayu Zhang**, jingyun Lu, Changzhan Gu\*, Junfa Mao, ***IEEE MTT-S International Wireless Symposium (IWS), 2023*** <font color='Apricot'>(Selected for the MVC Competition Finalist)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2023</span> [A Feature-based Filtering Algorithm with 60GHz MIMO FMCW Radar for Indoor Detection and Trajectory Tracking](https://ieeexplore.ieee.org/document/10188205), Wenjie Li, Yuchen Li, **Jiayu Zhang**, Shuqin Dong, jingyun Lu, Changzhan Gu\*, Junfa Mao, ***IEEE MTT-S International Microwave Symposium (IMS), 2023***
 
-# 🛠 Systems
+# 💻 Systems
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 
@@ -178,5 +178,5 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 - *2020.09* First Prize Scholaleidarship and Outstanding Student of Xidian University
 - *2019.09* First Prize Scholaleidarship and Outstanding Student of Xidian University
 
-# 💻 Academic activities
+# 👨‍💻 Academic activities
 - *2023.03 - Present*, Academic Director of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society
