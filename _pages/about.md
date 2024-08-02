@@ -134,7 +134,38 @@ My research interest includes 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🛠 Systems
 
-**Wait。。。**
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+
+  <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/System1.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">24-GHz Sparse MIMO radar</div>
+  </div>
+
+  <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a style="color: black; text-decoration: none;">
+        24 GHz 2T4R sparse MIMO millimeter-wave radar system  
+      </a>
+    </h2>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>This technology can be applied to FMCW radar for short-range detection and RF leakage suppression.</li>
+      <li>Utilizing time-frequency Characteristics and equivalent FMCW radar technology can improve SIR and SNR by 30 dB and 17 dB, respectively.</li>
+    </ul>
+  </div>
+
+
+
+
 
 # 🎖 Honors and Awards
 
