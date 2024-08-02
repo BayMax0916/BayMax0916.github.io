@@ -115,7 +115,6 @@ My research interest includes 4-D millimeter-wave MIMO radar systems and sensing
       <li>Using equivalent FMCW radar technology, the equivalent signal wavelength can be arbitrarily increased or decreased to achieve precise demodulation of large or small displacements. This improves the accuracy of small displacement detection by three times and the accuracy of large displacement detection by ten times.</li>
     </ul>
   </div>
-
 </div>
 
 ------
@@ -163,7 +162,7 @@ My research interest includes 4-D millimeter-wave MIMO radar systems and sensing
     </ul>
   </div>
 
-
+</div>
 
 
 
