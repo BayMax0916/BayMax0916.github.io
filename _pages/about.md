@@ -168,7 +168,6 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-
   <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/System2.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
     <div style="
@@ -181,13 +180,13 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
       border-radius: 3px; /* 圆角 */
       font-size: 12px; /* 字体大小 */
       font-weight: bold;
-    ">77-GHz MIMO FMCW radar for real-time human motion tracking</div>
+    ">77-GHz MIMO FMCW real-time radar system</div>
   </div>
 
   <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a style="color: black; text-decoration: none;">
-        24 GHz 2T4R sparse MIMO millimeter-wave radar system  
+        77-GHz MIMO FMCW radar system for real-time human motion tracking  
       </a>
     </h2>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
@@ -195,6 +194,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
       <li>This system detects the range and angle information of the target and transmits them to the STM32 via the serial port. The STM32 generates corresponding PWM waves to control the motor's real-time rotation based on the target's spatial information, with an accuracy within 2.2°. This enables accurate real-time target positioning and tracking.</li>
     </ul>
   </div>
+
 
 </div>
 
