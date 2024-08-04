@@ -21,7 +21,7 @@ I am currently a second-year Ph.D student in the [School of Electronic Informati
 
 I have received over ten honors and awards, including the National Scholarship, Outstanding Graduate of Shaanxi Province, the Jiachi Yang Academician Scholarship and so on. In competitions, I have won ten provincial and higher-level awards.
 
-My research interests include 4-D millimeter-wave MIMO radar systems and sensing algorithms. I have published more than 10 papers and I have been involved in projects such as National Key R&D Program of China, Natural Science Foundation of China, and collaborations with Huawei and universities.
+My research interests include 4-D millimeter-wave MIMO radar systems and sensing algorithms. I have published more than 10 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation of China.
 
 # 📖 Educations
 
@@ -134,7 +134,6 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 # 💻 Systems
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-
   <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/System1.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
     <div style="
@@ -147,8 +146,9 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
       border-radius: 3px; /* 圆角 */
       font-size: 12px; /* 字体大小 */
       font-weight: bold;
-    ">24-GHz Sparse MIMO radar</div>
+    ">24-GHz Sparse MIMO radar system</div>
   </div>
+
 
   <div style="flex: 1;">
     <h2 style="margin: 0;">
