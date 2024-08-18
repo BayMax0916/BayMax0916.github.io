@@ -39,6 +39,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🔥 News
 
+- 2024.08: 🎉🎉 I am greatly honored to won the 1st Prize of Best Student Paper Award in ACES-China2024! 
 - *2024.07*: &nbsp;🎉🎉 I am greatly honored to receive the Jiachi Yang Academician Scholarship. 
 - *2024.07*: &nbsp;🎉🎉 One paper (first author) on non-contact vital sign detection for multiple persons at short-range is accepted by ACES-China2024!
 - *2024.03*: &nbsp;🎉🎉 One paper (first author) on millimeter-wave radar real-time human positioning system is accepted by ICMMT2024! 
@@ -121,7 +122,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 
 
-- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">Aces-China2024</span> **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu\*, Junfa Mao, “Target Localization and Vital Signs Monitoring Based on Spatial-Temporal-Frequency Characteristics With Short-Range FMCW Radar,” ***International Applied Computational Electromagnetics Society Symposium (Aces-China), 2024***  <font color='Apricot'>(Selected for the Student Competition Finalist)</font>
+- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">Aces-China2024</span> **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu\*, Junfa Mao, “Target Localization and Vital Signs Monitoring Based on Spatial-Temporal-Frequency Characteristics With Short-Range FMCW Radar,” ***International Applied Computational Electromagnetics Society Symposium (Aces-China), 2024***  <font color='Apricot'>(Best Student Paper Award, 1st Prize)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">ICMMT2024</span> **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu\*, Junfa Mao, “Real-Time Human Motion Tracking Technique Based On a 77-GHz FMCW MIMO Radar,” ***International Conference on Microwave and Millimeter Wave Technology (ICMMT), 2024***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2024</span> Zhiwei Zhang, **Jiayu Zhang**, Yuchen Li, Changzhan Gu\*, “Enhanced Micrometer-Scale Motion Sensing Using a Reconfigurable Virtual CW Algorithm Based on 60 GHz FMCW Radar,” ***IEEE MTT-S International Wireless Symposium (IWS), 2024*** <font color='Apricot'>(IEEE MTT-S MVC Competition Third Place Winner)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2024</span> Keke Zheng, **Jiayu Zhang**, Yuchen Li, Changzhan Gu\*, Junfa Mao, “A Novel Data-Based DC Offset Calibration Technique for Millimeter-wave Interferometric Sensing of Weak Displacement Motions,” ***IEEE MTT-S International Wireless Symposium (IWS), 2024*** <font color='Apricot'>(IEEE MTT-S Flash Competition Second Place Winner)</font>
