@@ -39,8 +39,8 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🔥 News
 
-- 2024.08: 🎉🎉 I am greatly honored to won the 1st Prize of Best Student Paper Award in ACES-China2024! 
-- *2024.07*: &nbsp;🎉🎉 I am greatly honored to receive the Jiachi Yang Academician Scholarship. 
+- 2024.08: 🎉🎉 I am greatly honored to won the 1st prize of best student paper award in ACES-China2024! 
+- *2024.07*: &nbsp;🎉🎉 I am greatly honored to receive the Jiachi Yang Academician Scholarship! 
 - *2024.07*: &nbsp;🎉🎉 One paper (first author) on non-contact vital sign detection for multiple persons at short-range is accepted by ACES-China2024!
 - *2024.03*: &nbsp;🎉🎉 One paper (first author) on millimeter-wave radar real-time human positioning system is accepted by ICMMT2024! 
 - *2024.03*: &nbsp;🎉🎉 Two papers on millimeter-wave radar motion sensing are accepted by IWS2024! They won the IEEE MTT-S Flash Competition second place and the MVC Competition third place, respectively! Congrats to Zhiwei and Keke!  
