@@ -204,7 +204,10 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🏅 Honors and Awards
 
+- *2024.08* IEEE ACES-China 2024 Best Student Paper Award, 1st Prize
 - *2024.07* Jiachi Yang Academician Scholarship
+- *2024.05* IEEE MTT-S IWS 2024 MVC Competition Third Place Winner
+- *2024.05* IEEE MTT-S IWS 2024 Flash Competition Second Place Winner
 - *2022.06* Outstanding Graduates of Shaanxi Province
 - *2022.06* Campus Talent Ambassador of Xidian University
 - *2021.09* First Prize Scholarship and Outstanding Student of Xidian University
