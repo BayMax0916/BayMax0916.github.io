@@ -202,7 +202,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 
 
-# 🏅 Honors and Awards
+# 🏅 Honors and Awards (Selected)
 
 - *2024.08* IEEE ACES-China 2024 Best Student Paper Award, 1st Prize
 - *2024.07* Jiachi Yang Academician Scholarship
