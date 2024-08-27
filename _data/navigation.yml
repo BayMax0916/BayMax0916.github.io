@@ -15,8 +15,8 @@ main:
   - title: "Systems"
     url: "/#-systems"
 
-  - title: "Honors and Awards (Selected)"
-    url: "/#-honors-and-awards-selected"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards" #括号不需要管title里面有(Selected)，url里面直接-selected
 
   - title: "Academic activities"
     url: "/#-academic-activities"
