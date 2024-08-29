@@ -29,7 +29,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
   State Key Laboratory of Radio Frequency Heterogeneous Integration
 
-  Supervisor: [*Prof. Junfa Mao*](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (*Academician of CAS*) and [*Prof. Changzhan Gu*]([微波无线感知 (sjtu.edu.cn)](https://changzhan.sjtu.edu.cn/))
+  Supervisor: [*Prof. Junfa Mao*](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (*Academician of CAS*) and [*Prof. Changzhan Gu*](https://changzhan.sjtu.edu.cn/)
 
 - *2018.09 - 2022.06*, *B.S.* in Electromagnetic field and wireless technology, Xidian University, Shaanxi, China
   
