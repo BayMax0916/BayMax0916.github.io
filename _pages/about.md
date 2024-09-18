@@ -217,7 +217,8 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 - *2019.09* First Prize Scholaleidarship and Outstanding Student of Xidian University
 
 # 👨‍💻 Academic activities
-- *2023.03 - Present*, Academic Director of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society
+- *2023.03 - Present* Academic Director of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society
+- *2024.09* I was a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)
 
 
 
