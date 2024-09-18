@@ -39,6 +39,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🔥 News
 
+- *2024.09*: &nbsp;🎉🎉 I serving as a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)！
 - *2024.08*: &nbsp;🎉🎉 I am greatly honored to won the 1st prize of best student paper award in ACES-China2024! 
 - *2024.07*: &nbsp;🎉🎉 I am greatly honored to receive the Jiachi Yang Academician Scholarship! 
 - *2024.07*: &nbsp;🎉🎉 One paper (first author) on non-contact vital sign detection for multiple persons at short-range is accepted by ACES-China2024!
@@ -218,7 +219,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 👨‍💻 Academic activities
 - *2023.03 - Present* Academic Director of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society
-- *2024.09* I was a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)
+- *2024.09* I serving as a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)
 
 
 
