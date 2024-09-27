@@ -137,7 +137,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
-    <img src="../images/System1.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <img src="../images/System3.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
     <div style="
       position: absolute;
       top: 0px;
@@ -152,6 +152,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
   </div>
 
 
+
   <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a style="color: black; text-decoration: none;">
@@ -160,10 +161,11 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
     </h2>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
       <li>The system uses ADF5901, ADF5904, and ADF4159 chips for the RF design, enabling FMCW or CW operating modes.</li>
-      <li>Using an improved genetic algorithm for array layout design to achieve a 2T4R sparse arrangement, resulting in a 30% improvement in resolution compared to traditional layouts. The side lobe level is below -8 dB, and the FOV is within -45° to 45°.</li>
+      <li>Using an improved genetic algorithm for array layout design to achieve a 2T4R sparse arrangement, resulting in a 32% improvement in resolution compared to traditional layouts. The side lobe level is below -10 dB, and the FOV is within -50° to 50°.</li>
       <li>This system can be used for indoor positioning and multi-person point cloud trajectory tracking.</li>
     </ul>
   </div>
+
 
 </div>
 
