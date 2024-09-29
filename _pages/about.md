@@ -21,7 +21,7 @@ I am currently a third-year Ph.D student in the [School of Electronic Informatio
 
 I have received over ten honors and awards, including the National Scholarship, Outstanding Graduate of Shaanxi Province, the Jiachi Yang Academician Scholarship and so on. Moreover, I have received three times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, the National College Student Mathematics Competition, among others.
 
-My research interests include 4-D millimeter-wave MIMO radar systems and sensing algorithms. I have published more than 10 papers and I have been involved in projects such as National Key R\&D Program of China and Natural Science Foundation of China.
+My research interests include 4-D millimeter-wave MIMO radar systems and sensing algorithms. I have published more than 10 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation of China.
 
 # 📖 Educations
 
