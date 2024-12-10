@@ -39,6 +39,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🔥 News
 
+- *2024.1*2: &nbsp;🎉🎉 I became a reviewer for  [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)！
 - *2024.09*: &nbsp;🎉🎉 I serving as a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)！
 - *2024.08*: &nbsp;🎉🎉 I am greatly honored to won the 1st prize of best student paper award in ACES-China2024! 
 - *2024.07*: &nbsp;🎉🎉 I am greatly honored to receive the Jiachi Yang Academician Scholarship! 
@@ -221,9 +222,8 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 👨‍💻 Academic activities
 - *2023.03 - Present* Academic Director of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society
-- *2024.09* I serving as a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)
-
-
+- *2024.12* I became a reviewer for  [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)
+- *2024.09* I was a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)
 
 <div style="width: 150px; height: auto; float: right;">   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BsvMesZ4H8VYsYV0xTq9m6ZFmKn6toLhm2uKCGu7hWI&cl=ffffff&w=a"></script> </div>
 
