@@ -217,8 +217,8 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 - *2021.09* First Prize Scholarship and Outstanding Student of Xidian University
 - *2020.09* National Scholarship
 - *2020.09* First Prize of “2-781” Scholarship at Xidian University
-- *2020.09* First Prize Scholaleidarship and Outstanding Student of Xidian University
-- *2019.09* First Prize Scholaleidarship and Outstanding Student of Xidian University
+- *2020.09* First Prize Scholarship and Outstanding Student of Xidian University
+- *2019.09* First Prize Scholarship and Outstanding Student of Xidian University
 
 # 👨‍💻 Academic activities
 - *2023.03 - Present* Academic Director of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society
