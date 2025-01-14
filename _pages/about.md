@@ -29,13 +29,13 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
   State Key Laboratory of Radio Frequency Heterogeneous Integration
 
-  Supervisor: [*Prof. Junfa Mao*](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (*Academician of CAS*) and [*Prof. Changzhan Gu*](https://changzhan.sjtu.edu.cn/)
+  Supervisor: [*Prof. Junfa Mao*](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (*Academician of CAS*, *IEEE Fellow*) and [*Prof. Changzhan Gu*](https://changzhan.sjtu.edu.cn/)
 
 - *2018.09 - 2022.06*, *B.S.* in Electromagnetic field and wireless technology, Xidian University, Shaanxi, China
   
   National Key Laboratory of Radar Detection and Sensing
   
-  Supervisor: [*Prof. Ying Liu*](https://web.xidian.edu.cn/liuying/) and [*Prof. Shuai Zhang*](https://faculty.xidian.edu.cn/ZS3/zh_CN/index/369813/list/index.htm), *GPA: 3.96/4.00, Grade: 96.3/100, Rank: 1/33* (The highest score since the establishment of the major)
+  Supervisor: [*Prof. Ying Liu*](https://web.xidian.edu.cn/liuying/) (*IEEE Fellow*) and [*Prof. Shuai Zhang*](https://faculty.xidian.edu.cn/ZS3/zh_CN/index/369813/list/index.htm), *GPA: 3.96/4.00, Grade: 96.3/100, Rank: 1/33* (The highest score since the establishment of the major)
 
 # 🔥 News
 
