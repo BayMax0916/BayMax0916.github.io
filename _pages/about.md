@@ -39,7 +39,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🔥 News
 
-- *2025.02*: &nbsp;🎉🎉 Three paper (first author) on DCG sensing, range-angle decoupling and large-scale motion sensing are accepted by IMS2025! 
+- *2025.02*: &nbsp;🎉🎉 Three papers (first author) on DCG sensing, range-angle decoupling and large-scale motion sensing are accepted by IMS2025! 
 - *2025.01*: &nbsp;🎉🎉 I became the President of Shanghai Student Branch, [IEEE Microwave Theory and Technology Society](https://mtt.org/)！
 - *2024.12*: &nbsp;🎉🎉 I became a reviewer for  [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)！
 - *2024.09*: &nbsp;🎉🎉 I serving as a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)！
