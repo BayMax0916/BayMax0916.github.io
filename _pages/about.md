@@ -39,6 +39,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🔥 News
 
+- *2025.02*: &nbsp;🎉🎉 One paper (first author) on range-angle decoupling in IMS2025 was selected as a Top 50 Paper and invited for submission to MWTL!
 - *2025.02*: &nbsp;🎉🎉 Three papers (first author) on DCG sensing, range-angle decoupling and large-scale motion sensing are accepted by IMS2025! 
 - *2025.01*: &nbsp;🎉🎉 I became the President of Shanghai Student Branch, [IEEE Microwave Theory and Technology Society](https://mtt.org/)！
 - *2024.12*: &nbsp;🎉🎉 I became a reviewer for  [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)！
@@ -53,6 +54,41 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 - *2024.01*: &nbsp;🎉🎉 One paper (first author) on RF leakage suppression for FMCW radar indoor sensing is accepted by T-MTT!
 
 # 📝 Publications
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+
+ <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/MWTL2025.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">IMS Top50→MWTL</div>
+  </div>
+
+ <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a  style="color: black; text-decoration: none;">
+        Frequency-Spatial Adaptive Beamforming Technique for Range-Angle Decoupling With High-Resolution MIMO Radar
+      </a>
+    </h2>
+    <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Yuchen Li, Zhiwei Zhang, Changzhan Gu*, Junfa Mao</p>
+    <p style="margin: 0;"><em><strong>IEEE Microwave and Wireless Technology Letters, 2025</strong></em></p>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>This technology can be applied to MIMO radar for range-angle decoupling.</li>
+      <li>Utilizing frequency-space adaptive beamforming technology to improve system resolution (in range and angle) is of significant importance for autonomous driving applications.</li>
+    </ul>
+  </div>
+
+</div>
+
+
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 
@@ -84,7 +120,6 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
       <li>Utilizing time-frequency Characteristics and equivalent FMCW radar technology can improve SIR and SNR by 30 dB and 17 dB, respectively.</li>
     </ul>
   </div>
-
 </div>
 
 ------
@@ -127,7 +162,6 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2025</span> **Jiayu Zhang**, Shuqin Dong, Yuchen Li, Yiyan Cao, Zhiwei Zhang, Changzhan Gu\*, Junfa Mao, “Accurate Doppler Cardiogram Sensing With Frequency-Domain Digital Beamforming Technique Based on a K-Band Biomedical Radar,” ***IEEE MTT-S International Microwave Symposium (IMS), 2025.***
-- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2025</span> **Jiayu Zhang**, Yuchen Li, Zhiwei Zhang, Changzhan Gu\*, Junfa Mao, “Frequency-Spatial Adaptive Beamforming Technique for Range-Angle Decoupling With High-Resolution MIMO Radar,” ***IEEE MTT-S International Microwave Symposium (IMS), 2025.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2025</span> **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu\*, Junfa Mao, “Accurate Large-Scale Motion Sensing With FMCW Radar Based on Range-Dependent DFT Technique,” ***IEEE MTT-S International Microwave Symposium (IMS), 2025.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">Aces-China2024</span> **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu\*, Junfa Mao, “[Target Localization and Vital Signs Monitoring Based on Spatial-Temporal-Frequency Characteristics With Short-Range FMCW Radar](https://xploreqa.ieee.org/document/10699972),” ***International Applied Computational Electromagnetics Society Symposium (Aces-China), 2024.***  <font color='Apricot'>(Best Student Paper Award, 1st Prize)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">ICMMT2024</span> **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu\*, Junfa Mao, “[Real-Time Human Motion Tracking Technique Based On a 77 GHz FMCW MIMO Radar System](https://ieeexplore.ieee.org/document/10672135),” ***International Conference on Microwave and Millimeter Wave Technology (ICMMT), 2024.***
