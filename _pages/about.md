@@ -58,7 +58,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 
 <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
-    <img src="../images/SJ2025.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <img src="../images/SJ12025.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
     <div style="
       position: absolute;
       top: 0px;
