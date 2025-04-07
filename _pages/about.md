@@ -57,6 +57,42 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 
+<div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/SJ2025.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">IEEE Sensors J.</div>
+  </div>
+
+ <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a  style="color: black; text-decoration: none;">
+        Reconfigurable Frequency-Spatial Equivalent Array Based on FMCW Radar for Accurate Close-Spaced Multi-Targets Motions Sensing
+      </a>
+    </h2>
+    <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Zhiwei Zhang, Yuchen Li, Changzhan Gu*, Junfa Mao</p>
+    <p style="margin: 0;"><em><strong>IEEE Sensors Journal, 2025</strong></em></p>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>This technology can be applied to FMCW radar for close-spaced target resolution and high-precision motion sensing.</li>
+      <li>Utilizing frequency-space equivalent arrays and adaptive frequency domain beamforming technology to achieve close-spaced target resolution and reduce spectral mutual interference of targets for high-precision motion demodulation.</li>
+    </ul>
+  </div>
+
+</div>
+
+------
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
  <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/MWTL2025.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
     <div style="
@@ -69,8 +105,9 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
       border-radius: 3px; /* 圆角 */
       font-size: 12px; /* 字体大小 */
       font-weight: bold;
-    ">IMS Top50→MWTL</div>
+    ">IMS Top50→IEEE MWTL</div>
   </div>
+
 
  <div style="flex: 1;">
     <h2 style="margin: 0;">
@@ -92,7 +129,6 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-
   <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/TMTT2024.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
     <div style="
@@ -105,8 +141,9 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
       border-radius: 3px; /* 圆角 */
       font-size: 12px; /* 字体大小 */
       font-weight: bold;
-    ">T-MTT</div>
+    ">IEEE T-MTT</div>
   </div>
+
 
   <div style="flex: 1;">
     <h2 style="margin: 0;">
@@ -128,7 +165,6 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-
   <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/TMTT20242.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
     <div style="
@@ -141,7 +177,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
       border-radius: 3px; /* 圆角 */
       font-size: 12px; /* 字体大小 */
       font-weight: bold;
-    ">T-MTT</div>
+    ">IEEE T-MTT</div>
   </div>
   <div style="flex: 1;">
     <h2 style="margin: 0;">
@@ -156,6 +192,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
       <li>Using equivalent FMCW radar technology, the equivalent signal wavelength can be arbitrarily increased or decreased to achieve precise demodulation of large or small displacements. This improves the accuracy of small displacement detection by three times and the accuracy of large displacement detection by ten times.</li>
     </ul>
   </div>
+
 </div>
 
 ------
