@@ -83,7 +83,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
     <p style="margin: 0;"><em><strong>IEEE Sensors Journal, 2025</strong></em></p>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
       <li>This technology can be applied to FMCW radar for close-spaced target resolution and high-precision motion sensing.</li>
-      <li>Utilizing frequency-space equivalent arrays and adaptive frequency domain beamforming technology to achieve close-spaced target resolution and reduce spectral mutual interference of targets for high-precision motion demodulation.</li>
+      <li>Utilizing frequency-spatial equivalent arrays and adaptive frequency domain beamforming technology to achieve close-spaced target resolution and reduce spectral mutual interference of targets for high-precision motion demodulation.</li>
     </ul>
   </div>
 
