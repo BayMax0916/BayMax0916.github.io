@@ -113,7 +113,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
  <div style="flex: 1;">
     <h2 style="margin: 0;">
-      <a  style="color: black; text-decoration: none;">
+      <a href="https://ieeexplore.ieee.org/document/10966424" style="color: black; text-decoration: none;">
         Frequency-Spatial Adaptive Beamforming Technique for Range-Angle Decoupling With High-Resolution MIMO Radar
       </a>
     </h2>
