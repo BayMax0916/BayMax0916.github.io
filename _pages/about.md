@@ -225,11 +225,11 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 ## **Patents:**
 
-- **MIMO调频毫米波雷达阵列可重构阵列模式共用方法, 申请号: CN202311348159.8 (Granted)**
-- **MIMO调频连续波雷达的室内优化定位方法, 申请号: CN202311348300.4 (Granted)**
-- **基于K波段近距端到端稀疏MIMO FMCW雷达系统, 申请号: CN202510008228.3 (Granted)**
-- **高分辨率MIMO雷达的频率-空间自适应数字波束成形方法, 申请号: CN202510266765.8 (Granted)**
-- **基于K波段连续波FDDBF的DCG检测方法, 申请号: CN202510266766.2 (Granted)**
+- **MIMO调频毫米波雷达阵列可重构阵列模式共用方法, 国家发明专利, 申请号: CN202311348159.8 (Granted)**
+- **MIMO调频连续波雷达的室内优化定位方法, 国家发明专利,  申请号: CN202311348300.4 (Granted)**
+- **基于K波段近距端到端稀疏MIMO FMCW雷达系统, 国家发明专利,  申请号: CN202510008228.3 (Granted)**
+- **高分辨率MIMO雷达的频率-空间自适应数字波束成形方法, 国家发明专利,  申请号: CN202510266765.8 (Granted)**
+- **基于K波段连续波FDDBF的DCG检测方法, 国家发明专利,  申请号: CN202510266766.2 (Granted)**
 
 
 
