@@ -57,6 +57,8 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 📝 Publications
 
+### **Journal Papers:**
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 
 <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
@@ -202,7 +204,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 ------
 
-
+### **Conference Papers:**
 
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">NCMMW2025</span> **张嘉宇**, 顾昌展\* 和 毛军发, “K波段2T4R稀疏MIMO FMCW雷达系统的设计与应用,” ***全国微波毫米波会议(NCMMW), 2025.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2025</span> Yiyan Cao, **Jiayu Zhang** and Changzhan Gu\*, “Accurate Infant Respiratory Monitoring and Apnea Detection System With Time-Domain Enhancement Technique Based on FMCW radar,” ***IEEE MTT-S International Wireless Symposium (IWS), 2025.***
@@ -218,6 +220,18 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2023</span> Zhiwei Zhang, **Jiayu Zhang**, Jingtao Liu, Changzhan Gu\* and Junfa Mao, “[Accurate Heart Rate Estimation Based on Multi-Channel Cross-Correlation with a 60-GHz FMCW Radar](https://ieeexplore.ieee.org/document/10221898),” ***IEEE MTT-S International Wireless Symposium (IWS), 2023.*** <font color='Apricot'>(Selected for the Flash Competition Finalist)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2023</span> Wenjie Li, Yuchen Li, **Jiayu Zhang**, jingyun Lu, Changzhan Gu\* and Junfa Mao, “[A Receiver Reconfigurable Method for Indoor Human Detection with 60GHz MIMO FMCW Radar](https://ieeexplore.ieee.org/document/10222158),” ***IEEE MTT-S International Wireless Symposium (IWS), 2023.*** <font color='Apricot'>(Selected for the MVC Competition Finalist)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2023</span> Wenjie Li, Yuchen Li, **Jiayu Zhang**, Shuqin Dong, jingyun Lu, Changzhan Gu\* and Junfa Mao, “[A Feature-based Filtering Algorithm with 60GHz MIMO FMCW Radar for Indoor Detection and Trajectory Tracking](https://ieeexplore.ieee.org/document/10188205),” ***IEEE MTT-S International Microwave Symposium (IMS), 2023.***
+
+------
+
+### **Patents:**
+
+- **MIMO调频毫米波雷达阵列可重构阵列模式共用方法, 申请号: CN202311348159.8 (Granted)**
+- **MIMO调频连续波雷达的室内优化定位方法, 申请号: CN202311348300.4 (Granted)**
+- **基于K波段近距端到端稀疏MIMO FMCW雷达系统, 申请号: CN202510008228.3 (Granted)**
+- **高分辨率MIMO雷达的频率-空间自适应数字波束成形方法, 申请号: CN202510266765.8 (Granted)**
+- **基于K波段连续波FDDBF的DCG检测方法, 申请号: CN202510266766.2 (Granted)**
+
+
 
 # 💻 Systems
 
