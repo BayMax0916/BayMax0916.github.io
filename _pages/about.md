@@ -39,6 +39,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🔥 News
 
+- *2025.04*: &nbsp;🎉🎉 One paper (first author) on RF leakage and static clutter cancellation for 24 GHz Short-Range End-to-end Sparse MIMO FMCW Radar System is accepted by T-MTT!
 - *2025.04*: &nbsp;🎉🎉 Three papers (one as the first author) on millimeter-wave radar systems, infant vital sign monitoring, and range extension technologies are accepted by NCMMW, IWS, and ICMMT, respectively!
 - *2025.04*: &nbsp;🎉🎉 Two papers (first author) on range-angle decoupling and high-precision motion sensing of close-spaced targets are accepted by MWTL and Sensors Journal, respectively!
 - *2025.02*: &nbsp;🎉🎉 One paper (first author) on range-angle decoupling in IMS2025 was selected as a Top 50 Paper and invited for submission to MWTL!
@@ -59,7 +60,46 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 ## **Journal Papers:**
 
+
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+
+<div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/TMTT2025.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">IEEE T-MTT</div>
+  </div>
+ <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a href=" " style="color: black; text-decoration: none;">
+        Frequency-Domain Leakages and Stationary Clutters Cancellation Technique With a K-Band Short-Range End-to-end Sparse MIMO FMCW Radar System
+      </a>
+    </h2>
+    <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Zhiwei Zhang, Yuchen Li, Changzhan Gu* and Junfa Mao</p>
+    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2025</strong></em></p>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>This technology can be applied to MIMO FMCW radar for RF leakage and static clutter cancellation.</li>
+      <li>The frequency-domain characteristics of the intermediate frequency (IF) signal are used to effectively remove interference targets such as leakage and static clutter, enabling accurate target detection. This approach is validated using a custom-designed 24 GHz sparse MIMO FMCW radar system and applied to multi-person point cloud trajectory detection in indoor environments.</li>
+    </ul>
+  </div>
+
+</div>
+
+------
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+
 
 <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/SJ12025.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
