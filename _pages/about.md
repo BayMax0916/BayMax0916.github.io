@@ -63,7 +63,6 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-
 <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/TMTT2025.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
     <div style="
@@ -80,7 +79,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
   </div>
  <div style="flex: 1;">
     <h2 style="margin: 0;">
-      <a href=" " style="color: black; text-decoration: none;">
+      <a href="https://ieeexplore.ieee.org/document/11005633" style="color: black; text-decoration: none;">
         Frequency-Domain Leakages and Stationary Clutters Cancellation Technique With a K-Band Short-Range End-to-end Sparse MIMO FMCW Radar System
       </a>
     </h2>
@@ -91,6 +90,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
       <li>The frequency-domain characteristics of the intermediate frequency (IF) signal are used to effectively remove interference targets such as leakage and static clutter, enabling accurate target detection. This approach is validated using a custom-designed 24 GHz sparse MIMO FMCW radar system and applied to multi-person point cloud trajectory detection in indoor environments.</li>
     </ul>
   </div>
+
 
 </div>
 
