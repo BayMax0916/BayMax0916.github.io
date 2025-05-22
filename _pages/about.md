@@ -39,6 +39,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🔥 News
 
+- *2025.05*: &nbsp;🎉🎉 I am greatly honored to won the 3rd prize of best student paper award in NCMMW2025! 
 - *2025.04*: &nbsp;🎉🎉 One paper (first author) on RF leakage and static clutter cancellation for 24 GHz Short-Range End-to-end Sparse MIMO FMCW Radar System is accepted by T-MTT!
 - *2025.04*: &nbsp;🎉🎉 Three papers (one as the first author) on millimeter-wave radar systems, infant vital sign monitoring, and range extension technologies are accepted by NCMMW, IWS, and ICMMT, respectively!
 - *2025.04*: &nbsp;🎉🎉 Two papers (first author) on range-angle decoupling and high-precision motion sensing of close-spaced targets are accepted by MWTL and Sensors Journal, respectively!
@@ -246,7 +247,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 ## **Conference Papers:**
 
-- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">NCMMW2025</span> **张嘉宇**, 顾昌展\* 和 毛军发, “K波段2T4R稀疏MIMO FMCW雷达系统的设计与应用,” ***全国微波毫米波会议(NCMMW), 2025.***
+- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">NCMMW2025</span> **张嘉宇**, 顾昌展\* 和 毛军发, “K波段2T4R稀疏MIMO FMCW雷达系统的设计与应用,” ***全国微波毫米波会议(NCMMW), 2025.*** <font color='Apricot'>(Best Student Paper Award, 3rd Prize)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2025</span> Yiyan Cao, **Jiayu Zhang** and Changzhan Gu\*, “Accurate Infant Respiratory Monitoring and Apnea Detection System With Time-Domain Enhancement Technique Based on FMCW radar,” ***IEEE MTT-S International Wireless Symposium (IWS), 2025.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">ICMMT2025</span> Keke Zheng, **Jiayu Zhang**, Jingtao Liu, Changzhan Gu\* and Junfa Mao, “Extended Maximum Measurable Range via Fewer Sample points Using Sparse-Sampling CBF Frequency Estimation in FMCW Radar,” ***International Conference on Microwave and Millimeter Wave Technology (ICMMT), 2025.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2025</span> **Jiayu Zhang**, Shuqin Dong, Yuchen Li, Yiyan Cao, Zhiwei Zhang, Changzhan Gu\* and Junfa Mao, “Accurate Doppler Cardiogram Sensing With Frequency-Domain Digital Beamforming Technique Based on a K-Band Biomedical Radar,” ***IEEE MTT-S International Microwave Symposium (IMS), 2025.***
