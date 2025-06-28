@@ -363,6 +363,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 - *2019.09* First Prize Scholarship and Outstanding Student of Xidian University
 
 # 👨‍💻 Academic activities
+- *2025.06* I conducted a report titled [Microwave Biomedical Radar for Clinical Applications]([Workshops | IMS Microwave Week](https://ims-ieee.org/technical-program/workshops?date=2025-06-16)) in IMS2025 workshop "Unseen Insights: Radar and the Future of Human Sensing".
 - *2025.01 - 2026.01* President of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society
 - *2024.12* I became a reviewer for  [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)
 - *2024.09* I was a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)
