@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a third-year Ph.D student in the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) at Shanghai Jiao Tong University of China, where I am supervised by [Prof. Junfa Mao](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (Academician of CAS, IEEE Fellow) and [Prof. Changzhan Gu](https://changzhan.sjtu.edu.cn/). Before that, I got my bachelor's degree at [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Ying Liu](https://web.xidian.edu.cn/liuying/) (IEEE Fellow) and [Prof. Shuai Zhang](https://faculty.xidian.edu.cn/ZS3/zh_CN/index/369813/list/index.htm). During my undergraduate studies, I ranked first in my major and was directly admitted to the Ph.D.
 
-I have received over ten honors and awards, including the National Scholarship, Outstanding Graduate of Shaanxi Province, the Jiachi Yang Academician Scholarship and so on. Moreover, I have received five times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, the National College Student Mathematics Competition, among others.
+I am currently the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I have received over ten honors and awards, including the National Scholarship, Outstanding Graduate of Shaanxi Province, the Jiachi Yang Academician Scholarship and so on. Furthermore, I have received five times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, the National College Student Mathematics Competition, among others.
 
 My research interests include 4-D millimeter-wave MIMO radar systems and sensing techniques. I have published more than 10 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation of China.
 
@@ -45,7 +45,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 - *2025.04*: &nbsp;🎉🎉 Two papers (first author) on range-angle decoupling and high-precision motion sensing of close-spaced targets are accepted by MWTL and Sensors Journal, respectively!
 - *2025.02*: &nbsp;🎉🎉 One paper (first author) on range-angle decoupling in IMS2025 was selected as a Top 50 Paper and invited for submission to MWTL!
 - *2025.02*: &nbsp;🎉🎉 Three papers (first author) on DCG sensing, range-angle decoupling and large-scale motion sensing are accepted by IMS2025! 
-- *2025.01*: &nbsp;🎉🎉 I became the President of Shanghai Student Branch, [IEEE Microwave Theory and Technology Society](https://mtt.org/)！
+- *2025.01*: &nbsp;🎉🎉 I became the Chairman of IEEE-MTT Student Branch Chapter (SBC) in Shanghai, [IEEE Microwave Theory and Technology Society](https://mtt.org/)！
 - *2024.12*: &nbsp;🎉🎉 I became a reviewer for  [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)！
 - *2024.09*: &nbsp;🎉🎉 I serving as a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)！
 - *2024.08*: &nbsp;🎉🎉 I am greatly honored to won the 1st prize of best student paper award in ACES-China2024! 
@@ -364,7 +364,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 👨‍💻 Academic activities
 - *2025.06* I conducted a report titled [Microwave Biomedical Radar for Clinical Applications](https://ims-ieee.org/technical-program/workshops?date=2025-06-16) in IMS2025 workshop "Unseen Insights: Radar and the Future of Human Sensing".
-- *2025.01 - 2026.01* President of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society
+- *2025.01 - 2026.01*  Chairman of IEEE-MTT Student Branch Chapter (SBC) in Shanghai, IEEE Microwave Theory and Techniques Society
 - *2024.12* I became a reviewer for  [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)
 - *2024.09* I was a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)
 - *2023.03 - 2025.01* Academic Director of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society
