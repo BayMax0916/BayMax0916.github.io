@@ -40,7 +40,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 # 🔥 News
 
 - *2025.08*: &nbsp;🎉🎉Three papers (one as the first author) on gesture recognition based on 4D sparse MIMO systems, apnea monitoring, and heart rate monitoring have been accepted by APMC2025, respectively!
-- *2025.05*: &nbsp;🎉🎉 I am greatly honored to won the 2nd prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Professional Virtual Teaching and Research Office! 
+- *2025.08*: &nbsp;🎉🎉 I am greatly honored to won the 2nd prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office! 
 - *2025.05*: &nbsp;🎉🎉 I am greatly honored to won the 3rd prize of best student paper award in NCMMW2025! 
 - *2025.04*: &nbsp;🎉🎉 One paper (first author) on RF leakage and static clutter cancellation for 24 GHz Short-Range End-to-end Sparse MIMO FMCW Radar System is accepted by T-MTT!
 - *2025.04*: &nbsp;🎉🎉 Three papers (one as the first author) on millimeter-wave radar systems, infant vital sign monitoring, and range extension technologies are accepted by NCMMW, IWS, and ICMMT, respectively!
@@ -353,6 +353,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🏅 Honors and Awards
 
+- *2025.08* Second prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office
 - *2025.05* NCMMW 2025 Best Student Paper Award, 3rd Prize
 - *2025.05* IEEE MTT-S IWS 2025 MVC Competition Third Place Winner
 - *2024.08* IEEE ACES-China 2024 Best Student Paper Award, 1st Prize
