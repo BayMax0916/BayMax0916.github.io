@@ -39,6 +39,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🔥 News
 
+- *2025.09*: &nbsp;🎉🎉One paper (first author) on multitarget microwave cardiogram sensing using 4-D beamforming technique based on a K-Band short-range end-to-end 4T8R sparse MIMO FMCW radar system is accepted by T-MTT!
 - *2025.08*: &nbsp;🎉🎉Three papers (one as the first author) on gesture recognition based on 4D sparse MIMO systems, apnea monitoring, and heart rate monitoring have been accepted by APMC2025, respectively!
 - *2025.08*: &nbsp;🎉🎉 I am greatly honored to won the 2nd prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office! 
 - *2025.05*: &nbsp;🎉🎉 I am greatly honored to won the 3rd prize of best student paper award in NCMMW2025! 
@@ -62,6 +63,41 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 # 📝 Publications
 
 ## **Journal Papers:**
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/TMTT20252.png" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">IEEE T-MTT</div>
+  </div>
+ <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a href=" " style="color: black; text-decoration: none;">
+        Accurate Multitarget Microwave Cardiogram Sensing Using 4-D Beamforming Technique Based on a K-Band Short-Range End-to-End 4T8R Sparse MIMO FMCW Radar System
+      </a>
+    </h2>
+    <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Yuchen Li, Yiyan Cao, Zhiwei Zhang, Changzhan Gu* and Junfa Mao</p>
+    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2025</strong></em></p>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>This system can be applied to multi-target microwave cardiogram sensing to support future non-contact medical applications.</li>
+      <li>This novel 4D beamforming technology enables accurate 3D multi-target localization and 1D microwave cardiogram motion sensing, and can efficiently remove respiratory motion interference in a linear and distortion-free manner. This approach is validated using a custom-designed 24 GHz 4T8R sparse MIMO FMCW radar system and applied to multi-target microwave cardiogram sensing in both sitting and lying postures.</li>
+    </ul>
+  </div>
+
+</div>
+
+------
 
 
 
@@ -283,6 +319,43 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/System4.png" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">24-GHz 4T8R Sparse MIMO radar system</div>
+  </div>
+
+  <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a style="color: black; text-decoration: none;">
+        24 GHz 4T8R sparse MIMO millimeter-wave radar system  
+      </a>
+    </h2>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>The system uses ADF5901, ADF5904, ADF4159, ADRF5300 and HMC863ALC4 chips for the RF design, enabling FMCW or CW operating modes.</li>
+      <li>Using an improved genetic algorithm for array layout design to achieve a 4T8R sparse arrangement, achieving a spatial resolution of 6° in azimuth and 8° in elevation, while providing a 90° field of view in both dimensions and maintaining a -6 dB sidelobe level.</li>
+      <li>This system can be used for multitarget microwave cardiogram sensing.</li>
+    </ul>
+  </div>
+
+
+
+</div>
+
+
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/System3.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
     <div style="
       position: absolute;
@@ -294,8 +367,9 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
       border-radius: 3px; /* 圆角 */
       font-size: 12px; /* 字体大小 */
       font-weight: bold;
-    ">24-GHz Sparse MIMO radar system</div>
+    ">24-GHz 2T4R Sparse MIMO radar system</div>
   </div>
+
 
 
 
