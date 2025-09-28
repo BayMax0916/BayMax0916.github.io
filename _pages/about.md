@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a fourth-year Ph.D student in the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) at Shanghai Jiao Tong University of China, where I am supervised by [Prof. Junfa Mao](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (Academician of CAS, IEEE Fellow) and [Prof. Changzhan Gu](https://changzhan.sjtu.edu.cn/). Before that, I got my bachelor's degree at [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Ying Liu](https://web.xidian.edu.cn/liuying/) (IEEE Fellow) and [Prof. Shuai Zhang](https://faculty.xidian.edu.cn/ZS3/zh_CN/index/369813/list/index.htm). During my undergraduate studies, I ranked first in my major and was directly admitted to the Ph.D.
 
-I am the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I have received over ten honors and awards, including the National Scholarship, Outstanding Graduate of Shaanxi Province, the Jiachi Yang Academician Scholarship and so on. Furthermore, I have received five times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, the National College Student Mathematics Competition, among others.
+I am the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I have received over ten honors and awards, including the National Scholarship (Bachelor and Ph.D), Outstanding Graduate of Shaanxi Province, the Jiachi Yang Academician Scholarship and so on. Furthermore, I have received five times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, the National College Student Mathematics Competition, among others.
 
 My research interests include 4-D millimeter-wave MIMO radar systems and sensing techniques. I have published more than 20 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation of China.
 
@@ -39,6 +39,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🔥 News
 
+- *2025.09*: &nbsp;🎉🎉 I am greatly honored to receive the National Scholarship!
 - *2025.09*: &nbsp;🎉🎉One paper (first author) on multitarget microwave cardiogram sensing using 4-D beamforming technique based on a K-Band short-range end-to-end 4T8R sparse MIMO FMCW radar system is accepted by T-MTT!
 - *2025.08*: &nbsp;🎉🎉Three papers (one as the first author) on gesture recognition based on 4D sparse MIMO systems, apnea monitoring, and heart rate monitoring have been accepted by APMC2025, respectively!
 - *2025.08*: &nbsp;🎉🎉 I am greatly honored to won the 2nd prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office! 
@@ -427,6 +428,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🏅 Honors and Awards
 
+- *2025.09* National Scholarship (Graduate)
 - *2025.08* Second prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office
 - *2025.05* NCMMW 2025 Best Student Paper Award, 3rd Prize
 - *2025.05* IEEE MTT-S IWS 2025 MVC Competition Third Place Winner
@@ -437,7 +439,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 - *2022.06* Outstanding Graduates of Shaanxi Province
 - *2022.06* Campus Talent Ambassador of Xidian University
 - *2021.09* First Prize Scholarship and Outstanding Student of Xidian University
-- *2020.09* National Scholarship
+- *2020.09* National Scholarship (Undergraduate)
 - *2020.09* First Prize of “2-781” Scholarship at Xidian University
 - *2020.09* First Prize Scholarship and Outstanding Student of Xidian University
 - *2019.09* First Prize Scholarship and Outstanding Student of Xidian University
