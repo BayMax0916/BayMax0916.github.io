@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a fourth-year Ph.D student in the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) at Shanghai Jiao Tong University of China, where I am supervised by [Prof. Junfa Mao](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (Academician of CAS, IEEE Fellow) and [Prof. Changzhan Gu](https://changzhan.sjtu.edu.cn/). Before that, I got my bachelor's degree at [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Ying Liu](https://web.xidian.edu.cn/liuying/) (IEEE Fellow) and [Prof. Shuai Zhang](https://faculty.xidian.edu.cn/ZS3/zh_CN/index/369813/list/index.htm). During my undergraduate studies, I ranked first in my major and was directly admitted to the Ph.D.
 
-I am the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I have received over ten honors and awards, including the National Scholarship (Bachelor and Ph.D), Outstanding Graduate of Shaanxi Province, the Jiachi Yang Academician Scholarship and so on. Furthermore, I have received five times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, the National College Student Mathematics Competition, among others.
+I am the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I have received over ten honors and awards, including the National Scholarship (Bachelor and Ph.D), Outstanding Graduate of Shaanxi Province, Jiachi Yang Academician Scholarship, the first CIE student member sponsorship program and so on. Furthermore, I have received five times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, the National College Student Mathematics Competition, among others.
 
 My research interests include 4-D millimeter-wave MIMO radar systems and sensing techniques. I have published more than 20 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation of China.
 
@@ -43,6 +43,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 - *2025.09*: &nbsp;🎉🎉One paper (first author) on multitarget microwave cardiogram sensing using 4-D beamforming technique based on a K-Band short-range end-to-end 4T8R sparse MIMO FMCW radar system is accepted by T-MTT!
 - *2025.08*: &nbsp;🎉🎉Three papers (one as the first author) on gesture recognition based on 4D sparse MIMO systems, apnea monitoring, and heart rate monitoring have been accepted by APMC2025, respectively!
 - *2025.08*: &nbsp;🎉🎉 I am greatly honored to won the 2nd prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office! 
+- *2025.06*: &nbsp;🎉🎉 I am greatly honored to receive the first Chinese Institute of Electronics (CIE) student member sponsorship program!
 - *2025.05*: &nbsp;🎉🎉 I am greatly honored to won the 3rd prize of best student paper award in NCMMW2025! 
 - *2025.04*: &nbsp;🎉🎉 One paper (first author) on RF leakage and static clutter cancellation for 24 GHz Short-Range End-to-end Sparse MIMO FMCW Radar System is accepted by T-MTT!
 - *2025.04*: &nbsp;🎉🎉 Three papers (one as the first author) on millimeter-wave radar systems, infant vital sign monitoring, and range extension technologies are accepted by NCMMW, IWS, and ICMMT, respectively!
@@ -84,7 +85,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
   </div>
  <div style="flex: 1;">
     <h2 style="margin: 0;">
-      <a href=" " style="color: black; text-decoration: none;">
+      <a href="https://ieeexplore.ieee.org/document/11195963" style="color: black; text-decoration: none;">
         Accurate Multitarget Microwave Cardiogram Sensing Using 4-D Beamforming Technique Based on a K-Band Short-Range End-to-End 4T8R Sparse MIMO FMCW Radar System
       </a>
     </h2>
@@ -95,6 +96,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
       <li>This novel 4D beamforming technology enables accurate 3D multi-target localization and 1D microwave cardiogram motion sensing, and can efficiently remove respiratory motion interference in a linear and distortion-free manner. This approach is validated using a custom-designed 24 GHz 4T8R sparse MIMO FMCW radar system and applied to multi-target microwave cardiogram sensing in both sitting and lying postures.</li>
     </ul>
   </div>
+
 
 </div>
 
@@ -430,6 +432,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 - *2025.09* National Scholarship (Graduate)
 - *2025.08* Second prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office
+- *2025.06* The first Chinese Institute of Electronics (CIE) student member sponsorship program
 - *2025.05* NCMMW 2025 Best Student Paper Award, 3rd Prize
 - *2025.05* IEEE MTT-S IWS 2025 MVC Competition Third Place Winner
 - *2024.08* IEEE ACES-China 2024 Best Student Paper Award, 1st Prize
