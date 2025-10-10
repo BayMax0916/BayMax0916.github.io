@@ -39,9 +39,10 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 # 🔥 News
 
+- *2025.10*: &nbsp;🎉🎉 One paper on the impact of frequency nonlinearity with displacement motion sensing based on FMCW radar is accepted by T-MTT! Congrats to Zhiwei!
 - *2025.09*: &nbsp;🎉🎉 I am greatly honored to receive the National Scholarship!
-- *2025.09*: &nbsp;🎉🎉One paper (first author) on multitarget microwave cardiogram sensing using 4-D beamforming technique based on a K-Band short-range end-to-end 4T8R sparse MIMO FMCW radar system is accepted by T-MTT!
-- *2025.08*: &nbsp;🎉🎉Three papers (one as the first author) on gesture recognition based on 4D sparse MIMO systems, apnea monitoring, and heart rate monitoring have been accepted by APMC2025, respectively!
+- *2025.09*: &nbsp;🎉🎉 One paper (first author) on multitarget microwave cardiogram sensing using 4-D beamforming technique based on a K-Band short-range end-to-end 4T8R sparse MIMO FMCW radar system is accepted by T-MTT!
+- *2025.08*: &nbsp;🎉🎉 Three papers (one as the first author) on gesture recognition based on 4D sparse MIMO systems, apnea monitoring, and heart rate monitoring have been accepted by APMC2025, respectively!
 - *2025.08*: &nbsp;🎉🎉 I am greatly honored to won the 2nd prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office! 
 - *2025.06*: &nbsp;🎉🎉 I am greatly honored to receive the first Chinese Institute of Electronics (CIE) student member sponsorship program!
 - *2025.05*: &nbsp;🎉🎉 I am greatly honored to won the 3rd prize of best student paper award in NCMMW2025! 
@@ -285,6 +286,41 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 </div>
 
 ------
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/TMTT2025ZHIWEI.png" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">IEEE T-MTT</div>
+  </div>
+ <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a href=" " style="color: black; text-decoration: none;">
+        Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement Motion Sensing with FMCW Radar
+      </a>
+    </h2>
+    <p style="margin: 0;">Zhiwei Zhang, Jingtao Liu, <strong>Jiayu Zhang</strong>, Yijing Guo and Changzhan Gu*</p>
+    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2025</strong></em></p>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>This paper presents the first investigation into the influence of NLFM on displacement motion sensing, supported by theoretical derivations, simulation, and experimental validations.</li>
+      <li>Building on demonstrating motion‐sensing robustness against NLFM, a VCO in open-loop FMCW radar architecture is validated for displacement motion sensing. Comparative experiments show that, despite reduced hardware complexity, this architecture achieves performance on par with VCO in closed‐loop FMCW radar, with normalized root mean square error (NRMSE) difference below 1.6%.</li>
+    </ul>
+  </div>
+
+</div>
+
+------
+
+
 
 ## **Conference Papers:**
 
