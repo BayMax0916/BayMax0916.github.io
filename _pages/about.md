@@ -19,9 +19,9 @@ redirect_from:
 
 I am currently a fourth-year Ph.D student in the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) at Shanghai Jiao Tong University of China, where I am supervised by [Prof. Junfa Mao](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (Academician of CAS, IEEE Fellow) and [Prof. Changzhan Gu](https://changzhan.sjtu.edu.cn/). Before that, I got my bachelor's degree at [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Ying Liu](https://web.xidian.edu.cn/liuying/) (IEEE Fellow) and [Prof. Shuai Zhang](https://faculty.xidian.edu.cn/ZS3/zh_CN/index/369813/list/index.htm). During my undergraduate studies, I ranked first in my major and was directly admitted to the Ph.D.
 
-I am the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I have received over ten honors and awards, including the National Scholarship (Bachelor and Ph.D), Outstanding Graduate of Shaanxi Province, Jiachi Yang Academician Scholarship, the first CIE student member sponsorship program and so on. Furthermore, I have received five times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, the National College Student Mathematics Competition, among others.
+I am the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I have received over ten honors and awards, including the National Scholarship (Bachelor and Ph.D), Outstanding Graduate of Shaanxi Province, Jiachi Yang Academician Scholarship, the first CIE student member sponsorship program and so on. Furthermore, I have received five times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, among others.
 
-My research interests include 4-D millimeter-wave MIMO radar systems and sensing techniques. I have published more than 20 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation of China.
+My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar systems and sensing techniques. I have published more than 20 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation Program of China.
 
 # 📖 Educations
 
@@ -35,7 +35,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
   
   State Key Laboratory of Radar Detection and Sensing
   
-  Supervisor: [*Prof. Ying Liu*](https://web.xidian.edu.cn/liuying/) (*IEEE Fellow*) and [*Prof. Shuai Zhang*](https://faculty.xidian.edu.cn/ZS3/zh_CN/index/369813/list/index.htm), *GPA: 3.96/4.00, Grade: 96.3/100, Rank: 1/33* 
+  Supervisor: [*Prof. Ying Liu*](https://web.xidian.edu.cn/liuying/) (*IEEE Fellow*) and [*Prof. Shuai Zhang*](https://faculty.xidian.edu.cn/ZS3/zh_CN/index/369813/list/index.htm), *GPA: 3.9/4.0, Grade: 96.3/100, Rank: 1/33* 
 
 # 🔥 News
 
@@ -324,6 +324,7 @@ My research interests include 4-D millimeter-wave MIMO radar systems and sensing
 
 ## **Conference Papers:**
 
+- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">NCANT2025</span> 张志伟, **张嘉宇** 和 顾昌展\*, “一种基于FOWLP工艺的60 GHz宽带背腔封装天线,” ***全国天线年会(NCANT), 2025.*** <font color='Apricot'>(Selected for the Best Student Paper Finalist)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">APMC2025</span> **Jiayu Zhang**, Yuchen Li, Zhiwei Zhang, Yiyan Cao, Changzhan Gu\* and Junfa Mao, “*A Portable K-Band 4-D MIMO FMCW Radar System with Sparse Array for Short-Range Dual-Hand Gesture Sensing*,” ***IEEE Asia-Pacific Microwave Conference (APMC), 2025.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">APMC2025</span> Zhiwei Zhang, Keke Zheng, **Jiayu Zhang**, Yijing Guo and Changzhan Gu\*, “*Robust Heart-Rate Monitoring Under Sleep Postural Variability Using a 24-GHz MIMO FMCW Radar*,” ***IEEE Asia-Pacific Microwave Conference (APMC), 2025.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">APMC2025</span> Keke Zheng, Zhiwei Zhang, **Jiayu Zhang**, Yijing Guo, Liling Wang and Changzhan Gu\*, “*A Robust and Accurate Sleep Apnea Detection Framework Based on a K-Band FMCW MIMO Radar*,” ***IEEE Asia-Pacific Microwave Conference (APMC), 2025.***
