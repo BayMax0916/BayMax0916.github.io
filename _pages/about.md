@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a fourth-year Ph.D student in the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) at Shanghai Jiao Tong University of China, where I am supervised by [Prof. Junfa Mao](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (Academician of CAS, IEEE Fellow) and [Prof. Changzhan Gu](https://changzhan.sjtu.edu.cn/). Before that, I got my bachelor's degree at [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Ying Liu](https://web.xidian.edu.cn/liuying/) (IEEE Fellow) and [Prof. Shuai Zhang](https://faculty.xidian.edu.cn/ZS3/zh_CN/index/369813/list/index.htm). During my undergraduate studies, I ranked first in my major and was directly admitted to the Ph.D without entrance examination. ([My CV is here](https://drive.google.com/file/d/1tSrB7Wz_vOvMHkzfqJxIzmuwFE894Y_S/view?usp=drive_link))
 
-I am the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I have received over ten honors and awards, including the National Scholarship (Bachelor and Ph.D), Outstanding Graduate of Shaanxi Province, Jiachi Yang Academician Scholarship, the first CIE student member sponsorship program and so on. Furthermore, I have received six times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, among others.
+I am the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I have received over ten honors and awards, including the National Scholarship (Bachelor and Ph.D), Outstanding Graduate of Shaanxi Province, Jiachi Yang Academician Scholarship, The First CIE Student Member Sponsorship Program, Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics) and so on. Furthermore, I have received six times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, among others.
 
 My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar systems and sensing techniques. I have published more than 20 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation Program of China.
 
@@ -39,6 +39,8 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
+- *2025.12*: &nbsp;🎉🎉 One paper on the DC offsets calibration technique for detecting small displacement motions with microwave interferometric radar is accepted by MWTL! Congrats to Yiyan!
+- *2025.12*: &nbsp;🎉🎉 I am greatly honored to selected for the Doctoral Program of the 2025 Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics)!
 - *2025.10*: &nbsp;🎉🎉 One paper on the impact of frequency nonlinearity with displacement motion sensing based on FMCW radar is accepted by T-MTT! Congrats to Zhiwei!
 - *2025.09*: &nbsp;🎉🎉 I am greatly honored to receive the National Scholarship!
 - *2025.09*: &nbsp;🎉🎉 One paper (first author) on multitarget microwave cardiogram sensing using 4-D beamforming technique based on a K-Band short-range end-to-end 4T8R sparse MIMO FMCW radar system is accepted by T-MTT!
@@ -282,10 +284,46 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>Building on demonstrating motion‐sensing robustness against NLFM, a VCO in open-loop FMCW radar architecture is validated for displacement motion sensing. Comparative experiments show that, despite reduced hardware complexity, this architecture achieves performance on par with VCO in closed‐loop FMCW radar, with normalized root mean square error (NRMSE) difference below 1.6%.</li>
     </ul>
   </div>
+</div>
+
+------
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/MWTLYIYAN.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">IEEE T-MTT</div>
+  </div>
+ <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a href=" " style="color: black; text-decoration: none;">
+        A Novel DC Offsets Calibration Technique for Detecting Small Displacement Motions with Microwave Interferometric Radar
+      </a>
+    </h2>
+    <p style="margin: 0;">Yiyan Cao, Yuchen Li, <strong>Jiayu Zhang</strong> and Changzhan Gu*</p>
+    <p style="margin: 0;"><em><strong>IEEE Microwave and Wireless Technology Letters, 2025</strong></em></p>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>This paper proposes a novel digital pre-processing technique of spatio-initialized geometric Kalman DC offsets calibration (SIGK-DCC) compensating DC offsets directly from noisy quadrature I/Q trajectories, which leverages the spatial distribution of the I/Q signals for reliable initialization, followed by geometric Kalman filtering for iterative refinement.</li>
+      <li>Simulation and experiments were carried out to validate the proposed technique, demonstrating a normalized root mean square error (NRMSE) of displacement of 0.078 when measuring motion of only 0.01λ under a SNR of 31.19 dB, achieving a 50% improvement over the best existing methods and thereby confirming its efficacy in detecting small displacement motions.</li>
+    </ul>
+  </div>
 
 </div>
 
 ------
+
+
 
 
 
@@ -471,6 +509,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🏅 Honors and Awards
 
+- *2025.12* The Doctoral Program of the 2025 Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics)
 - *2025.11* CSRSWTC 2025 Best Paper Award
 - *2025.09* National Scholarship (Graduate)
 - *2025.08* Second prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office
