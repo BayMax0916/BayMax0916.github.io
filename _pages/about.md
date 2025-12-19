@@ -303,7 +303,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       border-radius: 3px; /* 圆角 */
       font-size: 12px; /* 字体大小 */
       font-weight: bold;
-    ">IEEE T-MTT</div>
+    ">IEEE MWTL</div>
   </div>
  <div style="flex: 1;">
     <h2 style="margin: 0;">
