@@ -248,6 +248,41 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>Utilizing time-frequency Characteristics and equivalent FMCW radar technology can improve SIR and SNR by 30 dB and 17 dB, respectively.</li>
     </ul>
   </div>
+</div>
+
+------
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/TMTTYL2025.png" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">IEEE T-MTT</div>
+  </div>
+ <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a href=" " style="color: black; text-decoration: none;">
+        A Double L-Shaped 4D MIMO Radar Array with Optimal Subspace-Based Angular Resolution
+      </a>
+    </h2>
+    <p style="margin: 0;">Yuchen Li, <strong>Jiayu Zhang</strong> and Changzhan Gu*</p>
+    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2025</strong></em></p>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>This paper presents an optimal angular resolution array design method for 4D MIMO radar systems, leveraging subspace-based direction-of-arrival (DOA) estimation algorithms.</li>
+      <li>Among various topologies, the L-shaped structure provides a favorable balance between aperture utilization and noise robustness. Specifically, for a uniform planar array, the angular resolution improves with larger apertures along two orthogonal axes, while the L-shaped configuration achieves the best angular anti-noise performance under the same aperture size. A 4T8R MIMO radar prototype is designed and fabricated, demonstrating angular resolutions of 8.4° and 6.1° in the theta and phi planes, respectively.</li>
+    </ul>
+  </div>
+</div>
 
 </div>
 
