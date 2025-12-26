@@ -39,6 +39,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
+- *2025.12*: &nbsp;🎉🎉 One paper on the double L-shaped 4D MIMO radar array with optimal subspace-based angular resolution is accepted by T-MTT! Congrats to Yuchen!
 - *2025.12*: &nbsp;🎉🎉 One paper on the DC offsets calibration technique for detecting small displacement motions with microwave interferometric radar is accepted by MWTL! Congrats to Yiyan!
 - *2025.12*: &nbsp;🎉🎉 I am greatly honored to selected for the Doctoral Program of the 2025 Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics)!
 - *2025.10*: &nbsp;🎉🎉 One paper on the impact of frequency nonlinearity with displacement motion sensing based on FMCW radar is accepted by T-MTT! Congrats to Zhiwei!
