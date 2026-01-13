@@ -39,6 +39,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
+- *2026.01*: &nbsp;🎉🎉 I became a reviewer for [IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7397573)！
 - *2025.12*: &nbsp;🎉🎉 One paper on the double L-shaped 4D MIMO radar array with optimal subspace-based angular resolution is accepted by T-MTT! Congrats to Yuchen!
 - *2025.12*: &nbsp;🎉🎉 One paper on the DC offsets calibration technique for detecting small displacement motions with microwave interferometric radar is accepted by MWTL! Congrats to Yiyan!
 - *2025.12*: &nbsp;🎉🎉 I am greatly honored to selected for the Doctoral Program of the 2025 Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics)!
@@ -565,6 +566,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 - *2019.09* First Prize Scholarship and Outstanding Student of Xidian University
 
 # 👨‍💻 Academic activities
+- *2026.01* I became a reviewer for  [IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7397573)
 - *2025.06* I conducted a report titled [Microwave Biomedical Radar for Clinical Applications](https://2025.ims-ieee.org/technical-program/workshops?date=2025-06-16) in IMS2025 workshop "Unseen Insights: Radar and the Future of Human Sensing"
 - *2025.01 - 2026.01*  Chairman of IEEE-MTT Student Branch Chapter (SBC) in Shanghai, IEEE Microwave Theory and Techniques Society
 - *2024.12* I became a reviewer for  [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)
