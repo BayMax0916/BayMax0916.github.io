@@ -39,7 +39,8 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
-- *2026.01*: &nbsp;🎉🎉 I became a reviewer for [IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7397573)！
+- *2026.01*: &nbsp;🎉🎉 I am greatly honored to selected for the 2nd prize of outstanding student of microwave \& microelectronics integration center in Shanghai Jiao Tong University!
+- *2026.01*: &nbsp;🎉🎉 I became a reviewer for [IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7397573)!
 - *2025.12*: &nbsp;🎉🎉 One paper on the double L-shaped 4D MIMO radar array with optimal subspace-based angular resolution is accepted by T-MTT! Congrats to Yuchen!
 - *2025.12*: &nbsp;🎉🎉 One paper on the DC offsets calibration technique for detecting small displacement motions with microwave interferometric radar is accepted by MWTL! Congrats to Yiyan!
 - *2025.12*: &nbsp;🎉🎉 I am greatly honored to selected for the Doctoral Program of the 2025 Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics)!
@@ -402,6 +403,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 ## **Conference Papers:**
 
+- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2026</span> Yiyan Cao, **Jiayu Zhang** and Changzhan Gu\*, “Deep-Learning-Based High-Efficient Sparse Array Design for a K-Band Short-Range MIMO Radar System,” ***IEEE MTT-S International Microwave Symposium (IMS), 2026.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">CSRSWTC2025</span> Zhiwei Zhang, **Jiayu Zhang**, Jingtao Liu, Liling Wang and Changzhan Gu\*, “A Low-Complexity FMCW Radar Sensor for Short-Range Vital Sign Detection,” ***Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2025.*** <font color='Apricot'>(Best Paper Award)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">NCANT2025</span> 张志伟, **张嘉宇** 和 顾昌展\*, “一种基于FOWLP工艺的60 GHz宽带背腔封装天线,” ***全国天线年会(NCANT), 2025.*** <font color='Apricot'>(Selected for the Best Student Paper Finalist)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">APMC2025</span> **Jiayu Zhang**, Yuchen Li, Zhiwei Zhang, Yiyan Cao, Changzhan Gu\* and Junfa Mao, “*A Portable K-Band 4-D MIMO FMCW Radar System with Sparse Array for Short-Range Dual-Hand Gesture Sensing*,” ***IEEE Asia-Pacific Microwave Conference (APMC), 2025.***
@@ -546,6 +548,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🏅 Honors and Awards
 
+- *2025.12* Outstanding Student of Microwave \& Microelectronics Integration Center in Shanghai Jiao Tong University, 2nd Prize
 - *2025.12* The Doctoral Program of the 2025 Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics)
 - *2025.11* CSRSWTC 2025 Best Paper Award
 - *2025.09* National Scholarship (Graduate)
