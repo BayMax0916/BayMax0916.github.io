@@ -39,7 +39,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
-- *2026.01*: &nbsp;🎉🎉 I am greatly honored to selected for the 2nd prize of outstanding student of microwave \& microelectronics integration center in Shanghai Jiao Tong University!
+- *2026.01*: &nbsp;🎉🎉 I am greatly honored to selected for the 2nd prize of outstanding student of microwave & microelectronics integration center in Shanghai Jiao Tong University!
 - *2026.01*: &nbsp;🎉🎉 I became a reviewer for [IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7397573)!
 - *2025.12*: &nbsp;🎉🎉 One paper on the double L-shaped 4D MIMO radar array with optimal subspace-based angular resolution is accepted by T-MTT! Congrats to Yuchen!
 - *2025.12*: &nbsp;🎉🎉 One paper on the DC offsets calibration technique for detecting small displacement motions with microwave interferometric radar is accepted by MWTL! Congrats to Yiyan!
