@@ -548,7 +548,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🏅 Honors and Awards
 
-- *2025.12* Outstanding Student of Microwave \& Microelectronics Integration Center in Shanghai Jiao Tong University, 2nd Prize
+- *2025.12* Outstanding Student of Microwave & Microelectronics Integration Center in Shanghai Jiao Tong University, 2nd Prize
 - *2025.12* The Doctoral Program of the 2025 Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics)
 - *2025.11* CSRSWTC 2025 Best Paper Award
 - *2025.09* National Scholarship (Graduate)
