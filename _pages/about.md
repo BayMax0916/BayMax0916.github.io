@@ -19,9 +19,9 @@ redirect_from:
 
 I am currently a fourth-year Ph.D student in the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) at Shanghai Jiao Tong University of China, where I am supervised by [Prof. Junfa Mao](https://www.sjtu.edu.cn/jdld/20181024/85893.html) (Academician of CAS, IEEE Fellow) and [Prof. Changzhan Gu](https://changzhan.sjtu.edu.cn/). Before that, I got my bachelor's degree at [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Ying Liu](https://web.xidian.edu.cn/liuying/) (IEEE Fellow) and [Prof. Shuai Zhang](https://faculty.xidian.edu.cn/ZS3/zh_CN/index/369813/list/index.htm). During my undergraduate studies, I ranked first in my major and was directly admitted to the Ph.D without entrance examination. ([My CV is here](https://drive.google.com/file/d/1OUJ1Cb99pgK4yoXm2bRYwH69UI30YL_D/view?usp=drive_link))
 
-I am the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I have received over ten honors and awards, including the National Scholarship (Bachelor and Ph.D), Outstanding Graduate of Shaanxi Province, Jiachi Yang Academician Scholarship, The First CIE Student Member Sponsorship Program, Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics) and so on. Furthermore, I have received six times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, among others.
+I am the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I have received over ten honors and awards, including the National Scholarship (Bachelor and Ph.D), IEEE MTT-S Graduate Fellowship Award, Outstanding Graduate of Shaanxi Province, Jiachi Yang Academician Scholarship, The First CIE Student Member Sponsorship Program, Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics) and so on. Furthermore, I have received six times’ Best/Excellent Paper Awards from IEEE conferences as an author/coauthor. Additionally, I have won nine provincial and higher-level awards in competitions, such as the "Challenge Cup" National College Student Academic and Technology Competition, the National/International Mathematical Modeling Competition, the National College Student Computer Design Competition, among others.
 
-My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar systems and sensing techniques. I have published more than 20 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation Program of China.
+My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar systems and sensing techniques. I have published more than 30 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation Program of China.
 
 # 📖 Educations
 
@@ -39,6 +39,8 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
+- *2026.02*: &nbsp;🎉🎉 I am greatly honored to receive the IEEE MTT-S Graduate Fellowship Award!
+- *2026.02*: &nbsp;🎉🎉 One paper on the vital sign monitoring with K-band biomedical radar is accepted by IEEE RadarConf2026! 
 - *2026.01*: &nbsp;🎉🎉 I am greatly honored to selected for the 2nd prize of outstanding student of microwave & microelectronics integration center in Shanghai Jiao Tong University!
 - *2026.01*: &nbsp;🎉🎉 I became a reviewer for [IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7397573)!
 - *2025.12*: &nbsp;🎉🎉 One paper on the double L-shaped 4D MIMO radar array with optimal subspace-based angular resolution is accepted by T-MTT! Congrats to Yuchen!
@@ -403,6 +405,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 ## **Conference Papers:**
 
+- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">RadarConf2026</span> **Jiayu Zhang**, Changzhan Gu\* and Junfa Mao, “Accurate Heart Rate Monitoring With Frequency-Domain Motion Reconstruction Technique Based on K-Band Biomedical Radar,” ***IEEE Radar Conference (RadarConf26), 2026.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2026</span> Yiyan Cao, **Jiayu Zhang** and Changzhan Gu\*, “Deep-Learning-Based High-Efficient Sparse Array Design for a K-Band Short-Range MIMO Radar System,” ***IEEE MTT-S International Microwave Symposium (IMS), 2026.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">CSRSWTC2025</span> Zhiwei Zhang, **Jiayu Zhang**, Jingtao Liu, Liling Wang and Changzhan Gu\*, “A Low-Complexity FMCW Radar Sensor for Short-Range Vital Sign Detection,” ***Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2025.*** <font color='Apricot'>(Best Paper Award)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">NCANT2025</span> 张志伟, **张嘉宇** 和 顾昌展\*, “一种基于FOWLP工艺的60 GHz宽带背腔封装天线,” ***全国天线年会(NCANT), 2025.*** <font color='Apricot'>(Selected for the Best Student Paper Finalist)</font>
@@ -548,6 +551,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🏅 Honors and Awards
 
+- *2026.02* IEEE MTT-S Graduate Fellowship Award
 - *2025.12* Outstanding Student of Microwave & Microelectronics Integration Center in Shanghai Jiao Tong University, 2nd Prize
 - *2025.12* The Doctoral Program of the 2025 Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics)
 - *2025.11* CSRSWTC 2025 Best Paper Award
