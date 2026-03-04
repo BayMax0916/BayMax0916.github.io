@@ -39,6 +39,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
+- *2026.03*: &nbsp;🎉🎉 I became a reviewer for [IEEE Transactions on Radar Systems](https://ieee-aess.org/publication/ieee-transactions-radar-systems)!
 - *2026.03*: &nbsp;🎉🎉 I became a reviewer for [IEEE Microwave and Wireless Technology Letters](https://mtt.org/publications/mwtl/)!
 - *2026.02*: &nbsp;🎉🎉 I became a reviewer for [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim)!
 - *2026.02*: &nbsp;🎉🎉 I am greatly honored to receive the IEEE MTT-S Graduate Fellowship Award!
@@ -575,6 +576,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 - *2019.09* First Prize Scholarship and Outstanding Student of Xidian University
 
 # 👨‍💻 Academic activities
+- *2026.03* I became a reviewer for [IEEE Transactions on Radar Systems](https://ieee-aess.org/publication/ieee-transactions-radar-systems)
 - *2026.03* I became a reviewer for [IEEE Microwave and Wireless Technology Letters](https://mtt.org/publications/mwtl/)
 - *2026.02* I became a reviewer for  [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim)
 - *2026.01* I became a reviewer for  [IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7397573)
