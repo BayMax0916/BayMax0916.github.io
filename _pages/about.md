@@ -39,7 +39,6 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
-- *2026.03*: &nbsp;🎉🎉 I am greatly honored to receive the 2026 IEEE AESS Michael Wicks Travel Award!
 - *2026.03*: &nbsp;🎉🎉 I became a reviewer for [IEEE Transactions on Radar Systems](https://ieee-aess.org/publication/ieee-transactions-radar-systems)!
 - *2026.03*: &nbsp;🎉🎉 I became a reviewer for [IEEE Microwave and Wireless Technology Letters](https://mtt.org/publications/mwtl/)!
 - *2026.02*: &nbsp;🎉🎉 I became a reviewer for [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim)!
@@ -555,7 +554,6 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🏅 Honors and Awards
 
-- *2026.03* IEEE AESS Michael Wicks Travel Award
 - *2026.02* IEEE MTT-S Graduate Fellowship Award
 - *2025.12* Outstanding Student of Microwave & Microelectronics Integration Center in Shanghai Jiao Tong University, 2nd Prize
 - *2025.12* The Doctoral Program of the 2025 Young Science and Technology Talents Cultivation Project of the China Association for Science and Technology (Cultivated by the Chinese Institute of Electronics)
