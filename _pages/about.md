@@ -39,6 +39,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
+- *2026.03*: &nbsp;🎉🎉 One paper (first author) on range–angle decoupling using spatial resampling technique based on a 4D High-Resolution MIMO FMCW Radar System is accepted by T-MTT!
 - *2026.03*: &nbsp;🎉🎉 I became a reviewer for [IEEE Transactions on Radar Systems](https://ieee-aess.org/publication/ieee-transactions-radar-systems)!
 - *2026.03*: &nbsp;🎉🎉 I became a reviewer for [IEEE Microwave and Wireless Technology Letters](https://mtt.org/publications/mwtl/)!
 - *2026.02*: &nbsp;🎉🎉 I became a reviewer for [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim)!
@@ -76,6 +77,47 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 # 📝 Publications
 
 ## **Journal Papers:**
+
+
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/TMTT20261.png" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">IEEE T-MTT</div>
+  </div>
+ <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a href=" " style="color: black; text-decoration: none;">
+        A Low-Complexity and Efficient Spatial Resampling Technique for Range–Angle Decoupling With 4-D High-Resolution MIMO FMCW Radar System
+      </a>
+    </h2>
+    <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Yuchen Li, Zhiwei Zhang, Changzhan Gu* and Junfa Mao</p>
+    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2025</strong></em></p>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>The technique provides a practical solution for high-resolution, low-cost MIMO FMCW radar by addressing a fundamental wave-propagation issue (RAC effect) inherent to wideband large-aperture radar systems.</li>
+      <li>The discrete frequency components of the IF signal are utilized to perform resampling in the virtual elements. By aligning the spatial sampling grid with the wavelength of each frequency across the entire modulation bandwidth, the inconsistency in phase differences across virtual array elements is effectively eliminated, ensuring each target to be concentrated within its correct cell and effectively mitigating resolution degradation. </li>
+    </ul>
+  </div>
+
+
+
+</div>
+
+------
+
+
 
 
 
