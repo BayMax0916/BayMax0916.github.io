@@ -35,7 +35,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
   
   State Key Laboratory of Radar Detection and Sensing
   
-  Supervisor: [*Prof. Ying Liu*](https://web.xidian.edu.cn/liuying/) (*IEEE Fellow*) and [*Prof. Shuai Zhang*](https://faculty.xidian.edu.cn/ZS3/zh_CN/index/369813/list/index.htm), *GPA: 3.9/4.0, Grade: 96.3/100, Rank: 1/33* 
+  GPA: *3.9/4.0*, Grade: *96.3/100,* Rank: *1/33*
 
 # 🔥 News
 
