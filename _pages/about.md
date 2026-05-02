@@ -39,6 +39,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
+- *2026.04*: &nbsp;🎉🎉 One paper on the target detection with V-band MIMO FMCW radar is accepted by IEEE IWS2026! 
 - *2026.03*: &nbsp;🎉🎉 One paper (first author) on range–angle decoupling using spatial resampling technique based on a 4D High-Resolution MIMO FMCW Radar System is accepted by T-MTT!
 - *2026.03*: &nbsp;🎉🎉 I became a reviewer for [IEEE Transactions on Radar Systems](https://ieee-aess.org/publication/ieee-transactions-radar-systems)!
 - *2026.03*: &nbsp;🎉🎉 I became a reviewer for [IEEE Microwave and Wireless Technology Letters](https://mtt.org/publications/mwtl/)!
@@ -450,6 +451,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 ## **Conference Papers:**
 
+- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2026</span> **Jiayu Zhang**, Changzhan Gu\* and Junfa Mao, “Target Detection Based on Frequency-Domain Interference Mitigation Technique With a V-Band Short-Range MIMO FMCW Radar System,” ***IEEE MTT-S International Wireless Symposium (IWS), 2026.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">RadarConf2026</span> **Jiayu Zhang**, Changzhan Gu\* and Junfa Mao, “Accurate Heart Rate Monitoring With Frequency-Domain Motion Reconstruction Technique Based on K-Band Biomedical Radar,” ***IEEE Radar Conference (RadarConf26), 2026.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2026</span> Yiyan Cao, **Jiayu Zhang** and Changzhan Gu\*, “Deep-Learning-Based High-Efficient Sparse Array Design for a K-Band Short-Range MIMO Radar System,” ***IEEE MTT-S International Microwave Symposium (IMS), 2026.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">CSRSWTC2025</span> Zhiwei Zhang, **Jiayu Zhang**, Jingtao Liu, Liling Wang and Changzhan Gu\*, “A Low-Complexity FMCW Radar Sensor for Short-Range Vital Sign Detection,” ***Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2025.*** <font color='Apricot'>(Best Paper Award)</font>
