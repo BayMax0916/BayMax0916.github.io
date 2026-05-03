@@ -39,6 +39,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
+- *2026.05*: &nbsp;🎉🎉 I am greatly honored to receive the IEEE MTT-S IWS SBC Chair Support Program!
 - *2026.04*: &nbsp;🎉🎉 One paper on the target detection with V-band MIMO FMCW radar is accepted by IEEE IWS2026! 
 - *2026.03*: &nbsp;🎉🎉 One paper (first author) on range–angle decoupling using spatial resampling technique based on a 4D High-Resolution MIMO FMCW Radar System is accepted by T-MTT!
 - *2026.03*: &nbsp;🎉🎉 I became a reviewer for [IEEE Transactions on Radar Systems](https://ieee-aess.org/publication/ieee-transactions-radar-systems)!
@@ -598,6 +599,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🏅 Honors and Awards
 
+- *2026.05* IEEE MTT-S IWS SBC Chair Support Program
 - *2026.02* IEEE MTT-S Graduate Fellowship Award
 - *2025.12* Outstanding Student of Microwave & Microelectronics Integration Center in Shanghai Jiao Tong University, 2nd Prize
 - *2025.12* The Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (Cultivated by the Chinese Institute of Electronics)
