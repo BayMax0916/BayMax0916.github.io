@@ -334,11 +334,13 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>Among various topologies, the L-shaped structure provides a favorable balance between aperture utilization and noise robustness. Specifically, for a uniform planar array, the angular resolution improves with larger apertures along two orthogonal axes, while the L-shaped configuration achieves the best angular anti-noise performance under the same aperture size. A 4T8R MIMO radar prototype is designed and fabricated, demonstrating angular resolutions of 8.4° and 6.1° in the theta and phi planes, respectively.</li>
     </ul>
   </div>
-
-
-
-
 </div>
+
+
+
+
+
+
 
 ------
 
