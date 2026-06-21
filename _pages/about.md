@@ -39,6 +39,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
+- *2026.06*: &nbsp;🎉🎉 I became a reviewer for [2026 IEEE International Conference on Intelligent Systems and Interdisciplinary Applications]([IEEE ISAIA 2026](https://www.ieeeisaia.com/))！
 - *2026.05*: &nbsp;🎉🎉 I am greatly honored to receive the IEEE MTT-S IWS SBC Chair Support Program!
 - *2026.04*: &nbsp;🎉🎉 One paper on the target detection with V-band MIMO FMCW radar is accepted by IEEE IWS2026! 
 - *2026.03*: &nbsp;🎉🎉 One paper (first author) on range–angle decoupling using spatial resampling technique based on a 4D High-Resolution MIMO FMCW Radar System is accepted by T-MTT!
@@ -627,6 +628,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 - *2019.09* First Prize Scholarship and Outstanding Student of Xidian University
 
 # 👨‍💻 Academic activities
+- *2026.06* I became a reviewer for [2026 IEEE International Conference on Intelligent Systems and Interdisciplinary Applications]([IEEE ISAIA 2026](https://www.ieeeisaia.com/))
 - *2026.03* I became a reviewer for [IEEE Transactions on Radar Systems](https://ieee-aess.org/publication/ieee-transactions-radar-systems)
 - *2026.03* I became a reviewer for [IEEE Microwave and Wireless Technology Letters](https://mtt.org/publications/mwtl/)
 - *2026.02* I became a reviewer for  [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim)
