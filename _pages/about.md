@@ -107,7 +107,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       </a>
         <br>
   <span style="color: red;">
-    (Front Cover and Featured Articles)
+    (Front Cover and Featured Article of IEEE T-MTT June 2026)
   </span>
     </h2>
     <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Yuchen Li, Zhiwei Zhang, Changzhan Gu* and Junfa Mao</p>
