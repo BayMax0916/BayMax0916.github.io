@@ -103,7 +103,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
  <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/11457317" style="color: black; text-decoration: none;">
-        A Low-Complexity and Efficient Spatial Resampling Technique for Range–Angle Decoupling With 4-D High-Resolution MIMO FMCW Radar System
+        A Low-Complexity and Efficient Spatial Resampling Technique for Range–Angle Decoupling With 4-D High-Resolution MIMO FMCW Radar System (Front Cover and Featured Articles)
       </a>
     </h2>
     <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Yuchen Li, Zhiwei Zhang, Changzhan Gu* and Junfa Mao</p>
