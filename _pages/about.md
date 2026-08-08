@@ -312,6 +312,45 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 
 
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/TMTTLU.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">IEEE T-MTT</div>
+  </div>
+ <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a href="https://ieeexplore.ieee.org/author/37088801565" style="color: black; text-decoration: none;">
+        Binary Phase Modulation FMCW Radar for High-Performance Multiperson Cardiac-Induced Thoracic Micro-Motion Sensing
+      </a>
+    </h2>
+    <p style="margin: 0;">Jingyun Lu, <strong>Jiayu Zhang</strong>, Yuchen Li and Changzhan Gu*</p>
+    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2026</strong></em></p>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>This article focuses on the exploitation of binary phase modulation (BPM) radar architecture for multiperson fine grained cardiac-induced thoracic micro-motion monitoring.</li>
+      <li>By introducing a phase shifter at each transmit (TX) channel, all TX channels can operate simultaneously while preserving temporal resolution. Compared with conventional radar architectures, such as phased-array and time-division multiplexing (TDM) MIMO radar, the proposed scheme provides improved signal-to-noise ratio (SNR), making it suitable for noncontact biomedical sensing applications.</li>
+    </ul>
+  </div>
+
+
+
+</div>
+
+------
+
+
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/TMTTYL2025.png" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
@@ -618,12 +657,10 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 - *2026.05* IEEE MTT-S IWS SBC Chair Support Program
 - *2026.02* IEEE MTT-S Graduate Fellowship Award
-- *2025.12* Outstanding Student of Microwave & Microelectronics Integration Center in Shanghai Jiao Tong University, 2nd Prize
 - *2025.12* The Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (Cultivated by the Chinese Institute of Electronics)
 - *2025.11* CSRSWTC 2025 Best Paper Award
 - *2025.09* National Scholarship (Graduate)
-- *2025.08* Second prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office
-- *2025.06* The first Chinese Institute of Electronics (CIE) student member sponsorship program
+- *2025.06* The First Chinese Institute of Electronics (CIE) Student Member Sponsorship Program
 - *2025.05* NCMMW 2025 Best Student Paper Award, 3rd Prize
 - *2025.05* IEEE MTT-S IWS 2025 MVC Competition Third Place Winner
 - *2024.08* IEEE ACES-China 2024 Best Student Paper Award, 1st Prize
