@@ -541,6 +541,8 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 - **一种基于K波段连续波生物雷达的频域运动重构心率检测方法, 国家发明专利,  申请号: CN202610808946.3**
 
+- **基于二维MIMO稀疏阵列的FMCW雷达优化方法, 国家发明专利,  申请号: CN202611409917.6**
+
 
 
 # 💻 Systems
