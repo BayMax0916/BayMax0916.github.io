@@ -104,7 +104,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
   </div>
  <div style="flex: 1;">
     <h2 style="margin: 0;">
-      <a href="https://ieeexplore.ieee.org/document/11457317" style="color: black; text-decoration: none;">
+      <a href=" " style="color: black; text-decoration: none;">
         Multi-Branch Fusion Network-Enabled Sparse Array Design for V-Band Short-Range MIMO FMCW Radar Sensing Applications
       </a>
     </h2>
@@ -115,6 +115,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>Compared with analytical AF calculation, a computational speedup exceeding 20× is achieved while a relative root mean square error of 6.61% is maintained. Based on the proposed design method, a sparse array is synthesized and integrated into a custom-developed V-band 4T4R MIMO radar prototype for experimental validation in short-range sensing scenarios. </li>
     </ul>
   </div>
+
 
 
 
@@ -379,7 +380,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       </a>
         <br>
   <span style="color: red;">
-    (Front Cover and Featured Article of IEEE T-MTT June 2026)
+    (Front Cover and Featured Article of IEEE T-MTT Sept. 2026)
   </span>
     </h2>
     <p style="margin: 0;">Jingyun Lu, <strong>Jiayu Zhang</strong>, Yuchen Li and Changzhan Gu*</p>
@@ -389,6 +390,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>By introducing a phase shifter at each transmit (TX) channel, all TX channels can operate simultaneously while preserving temporal resolution. Compared with conventional radar architectures, such as phased-array and time-division multiplexing (TDM) MIMO radar, the proposed scheme provides improved signal-to-noise ratio (SNR), making it suitable for noncontact biomedical sensing applications.</li>
     </ul>
   </div>
+
 
 
 
@@ -595,6 +597,78 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 💻 Systems
 
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/System6.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">60-GHz 4T4R Sparse MIMO radar system</div>
+  </div>
+
+  <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a style="color: black; text-decoration: none;">
+        60 GHz 4T4R sparse MIMO millimeter-wave radar system 
+      </a>
+    </h2>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>The system uses Silicon T4R4_060_096 and ADF4159 chips for the RF design, enabling FMCW or CW operating modes.</li>
+      <li>An AI-assisted genetic algorithm was used to optimize the array layout, resulting in a 4T4R sparse array with an azimuth angular resolution of 5.1°, a 90° field of view, and a sidelobe level of −10 dB.</li>
+      <li>This system supports multi-target vital-sign monitoring and point-cloud-based gait trajectory tracking, providing a high-performance platform for short-range millimeter-wave sensing applications.</li>
+    </ul>
+  </div>
+
+
+
+</div>
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/System5.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">24-GHz 4T8R Sparse MIMO radar system V2</div>
+  </div>
+
+  <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a style="color: black; text-decoration: none;">
+        24 GHz 4T8R sparse MIMO millimeter-wave radar system V2 
+      </a>
+    </h2>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>The system uses ADF5901, ADF5904, ADF4159, ADRF5300 and HMC863ALC4 chips for the RF design, enabling FMCW or CW operating modes.</li>
+      <li>An AI-assisted genetic algorithm was used to optimize the array layout, achieving a 4T8R sparse configuration with angular resolutions of 4° in azimuth and 6° in elevation, a 90° field of view in both dimensions, and a sidelobe level of −6 dB. Compared with V1, the addition of a Faraday cage improved the antenna element radiation patterns and overall system detection performance.</li>
+      <li>This system can capture the point-cloud trajectories of dual-hands gestures, laying the foundation for contactless human–computer interaction.</li>
+    </ul>
+  </div>
+
+
+
+</div>
+
+
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/System4.png" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
@@ -608,13 +682,13 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       border-radius: 3px; /* 圆角 */
       font-size: 12px; /* 字体大小 */
       font-weight: bold;
-    ">24-GHz 4T8R Sparse MIMO radar system</div>
+    ">24-GHz 4T8R Sparse MIMO radar system V1</div>
   </div>
 
   <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a style="color: black; text-decoration: none;">
-        24 GHz 4T8R sparse MIMO millimeter-wave radar system  
+        24 GHz 4T8R sparse MIMO millimeter-wave radar system V1 
       </a>
     </h2>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
@@ -623,6 +697,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>This system can be used for multitarget microwave cardiogram sensing.</li>
     </ul>
   </div>
+
 
 
 
@@ -705,6 +780,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🏅 Honors and Awards
 
+- *2026.09* National Scholarship (Graduate)
 - *2026.05* IEEE MTT-S IWS SBC Chair Support Program
 - *2026.02* IEEE MTT-S Graduate Fellowship Award
 - *2025.12* The Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (Cultivated by the Chinese Institute of Electronics)
