@@ -39,6 +39,8 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🔥 News
 
+- *2026.09*: &nbsp;🎉🎉 One paper (first author) on AI-enabled sparse array design for V-band short-range MIMO FMCW radar is accepted by TAP!
+- *2026.09*: &nbsp;🎉🎉 I am greatly honored to receive the National Scholarship!
 - *2026.06*: &nbsp;🎉🎉 I became a reviewer for [2026 IEEE International Conference on Intelligent Systems and Interdisciplinary Applications](https://www.ieeeisaia.com/)！
 - *2026.05*: &nbsp;🎉🎉 I am greatly honored to receive the IEEE MTT-S IWS SBC Chair Support Program!
 - *2026.04*: &nbsp;🎉🎉 One paper on the target detection with V-band MIMO FMCW radar is accepted by IEEE IWS2026! 
@@ -87,6 +89,45 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 <div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
+    <img src="../images/TAP20261.svg" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
+    <div style="
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #00369F; /* 背景颜色 */
+      color: white; /* 字体颜色 */
+      padding: 2px 2px; /* 内边距 */
+      border-radius: 3px; /* 圆角 */
+      font-size: 12px; /* 字体大小 */
+      font-weight: bold;
+    ">IEEE TAP</div>
+  </div>
+ <div style="flex: 1;">
+    <h2 style="margin: 0;">
+      <a href="https://ieeexplore.ieee.org/document/11457317" style="color: black; text-decoration: none;">
+        Multi-Branch Fusion Network-Enabled Sparse Array Design for V-Band Short-Range MIMO FMCW Radar Sensing Applications
+      </a>
+    </h2>
+    <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Yiyan Cao, Yuchen Li, Changzhan Gu* and Junfa Mao</p>
+    <p style="margin: 0;"><em><strong>IEEE Transactions on Antennas and Propagation, 2026</strong></em></p>
+    <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
+      <li>Multi-branch fusion network-enabled sparse array design method is proposed for short-range MIMO radar, where the virtual array geometry, direction of arrival, and digital-domain amplitude weights are jointly encoded to predict the corresponding weighted AF.</li>
+      <li>Compared with analytical AF calculation, a computational speedup exceeding 20× is achieved while a relative root mean square error of 6.61% is maintained. Based on the proposed design method, a sparse array is synthesized and integrated into a custom-developed V-band 4T4R MIMO radar prototype for experimental validation in short-range sensing scenarios. </li>
+    </ul>
+  </div>
+
+
+
+</div>
+
+------
+
+
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="position: relative; flex: 0 0 auto; margin-right: 20px;">
     <img src="../images/TMTT20261.png" alt="Diagram" style="width: 300px; box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);">
     <div style="
       position: absolute;
@@ -111,12 +152,13 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
   </span>
     </h2>
     <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Yuchen Li, Zhiwei Zhang, Changzhan Gu* and Junfa Mao</p>
-    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2025</strong></em></p>
+    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2026</strong></em></p>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
       <li>The technique provides a practical solution for high-resolution, low-cost MIMO FMCW radar by addressing a fundamental wave-propagation issue (RAC effect) inherent to wideband large-aperture radar systems.</li>
       <li>The discrete frequency components of the IF signal are utilized to perform resampling in the virtual elements. By aligning the spatial sampling grid with the wavelength of each frequency across the entire modulation bandwidth, the inconsistency in phase differences across virtual array elements is effectively eliminated, ensuring each target to be concentrated within its correct cell and effectively mitigating resolution degradation. </li>
     </ul>
   </div>
+
 
 
 
@@ -151,12 +193,13 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       </a>
     </h2>
     <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Yuchen Li, Yiyan Cao, Zhiwei Zhang, Changzhan Gu* and Junfa Mao</p>
-    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2025</strong></em></p>
+    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2026</strong></em></p>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
       <li>This system can be applied to multi-target microwave cardiogram sensing to support future non-contact medical applications.</li>
       <li>This novel 4D beamforming technology enables accurate 3D multi-target localization and 1D microwave cardiogram motion sensing, and can efficiently remove respiratory motion interference in a linear and distortion-free manner. This approach is validated using a custom-designed 24 GHz 4T8R sparse MIMO FMCW radar system and applied to multi-target microwave cardiogram sensing in both sitting and lying postures.</li>
     </ul>
   </div>
+
 
 
 </div>
@@ -334,6 +377,10 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <a href="https://ieeexplore.ieee.org/author/37088801565" style="color: black; text-decoration: none;">
         Binary Phase Modulation FMCW Radar for High-Performance Multiperson Cardiac-Induced Thoracic Micro-Motion Sensing
       </a>
+        <br>
+  <span style="color: red;">
+    (Front Cover and Featured Article of IEEE T-MTT June 2026)
+  </span>
     </h2>
     <p style="margin: 0;">Jingyun Lu, <strong>Jiayu Zhang</strong>, Yuchen Li and Changzhan Gu*</p>
     <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2026</strong></em></p>
@@ -342,6 +389,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>By introducing a phase shifter at each transmit (TX) channel, all TX channels can operate simultaneously while preserving temporal resolution. Compared with conventional radar architectures, such as phased-array and time-division multiplexing (TDM) MIMO radar, the proposed scheme provides improved signal-to-noise ratio (SNR), making it suitable for noncontact biomedical sensing applications.</li>
     </ul>
   </div>
+
 
 
 
