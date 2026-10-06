@@ -40,7 +40,6 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 # 🔥 News
 
 - *2026.09*: &nbsp;🎉🎉 One paper (first author) on AI-enabled sparse array design for V-band short-range MIMO FMCW radar is accepted by TAP!
-- *2026.09*: &nbsp;🎉🎉 I am greatly honored to receive the National Scholarship!
 - *2026.06*: &nbsp;🎉🎉 I became a reviewer for [2026 IEEE International Conference on Intelligent Systems and Interdisciplinary Applications](https://www.ieeeisaia.com/)！
 - *2026.05*: &nbsp;🎉🎉 I am greatly honored to receive the IEEE MTT-S IWS SBC Chair Support Program!
 - *2026.04*: &nbsp;🎉🎉 One paper on the target detection with V-band MIMO FMCW radar is accepted by IEEE IWS2026! 
@@ -780,7 +779,6 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 # 🏅 Honors and Awards
 
-- *2026.09* National Scholarship (Graduate)
 - *2026.05* IEEE MTT-S IWS SBC Chair Support Program
 - *2026.02* IEEE MTT-S Graduate Fellowship Award
 - *2025.12* The Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (Cultivated by the Chinese Institute of Electronics)
