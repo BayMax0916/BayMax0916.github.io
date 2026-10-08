@@ -58,9 +58,9 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 - *2025.09*: &nbsp;🎉🎉 I am greatly honored to receive the National Scholarship!
 - *2025.09*: &nbsp;🎉🎉 One paper (first author) on multitarget microwave cardiogram sensing using 4-D beamforming technique based on a K-Band short-range end-to-end 4T8R sparse MIMO FMCW radar system is accepted by T-MTT!
 - *2025.08*: &nbsp;🎉🎉 Three papers (one as the first author) on gesture recognition based on 4D sparse MIMO systems, apnea monitoring, and heart rate monitoring have been accepted by APMC2025, respectively!
-- *2025.08*: &nbsp;🎉🎉 I am greatly honored to won the 2nd prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office! 
+- *2025.08*: &nbsp;🎉🎉 I am greatly honored to have won the 2nd prize in the Graduate Academic Innovation Competition organized by the National Electromagnetic Field and Wireless Technology Virtual Teaching and Research Office! 
 - *2025.06*: &nbsp;🎉🎉 I am greatly honored to receive the first Chinese Institute of Electronics (CIE) student member sponsorship program!
-- *2025.05*: &nbsp;🎉🎉 I am greatly honored to won the 3rd prize of best student paper award in NCMMW2025! 
+- *2025.05*: &nbsp;🎉🎉 I am greatly honored to have won the 3rd prize of best student paper award in NCMMW2025! 
 - *2025.04*: &nbsp;🎉🎉 One paper (first author) on RF leakage and static clutter cancellation for 24 GHz Short-Range End-to-end Sparse MIMO FMCW Radar System is accepted by T-MTT!
 - *2025.04*: &nbsp;🎉🎉 Three papers (one as the first author) on millimeter-wave radar systems, infant vital sign monitoring, and range extension technologies are accepted by NCMMW, IWS, and ICMMT, respectively!
 - *2025.04*: &nbsp;🎉🎉 Two papers (first author) on range-angle decoupling and high-precision motion sensing of close-spaced targets are accepted by MWTL and Sensors Journal, respectively!
@@ -69,7 +69,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 - *2025.01*: &nbsp;🎉🎉 I became the Chairman of IEEE-MTT Student Branch Chapter (SBC) in Shanghai, [IEEE Microwave Theory and Techniques Society](https://mtt.org/)！
 - *2024.12*: &nbsp;🎉🎉 I became a reviewer for  [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)！
 - *2024.09*: &nbsp;🎉🎉 I served as a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)！
-- *2024.08*: &nbsp;🎉🎉 I am greatly honored to won the 1st prize of best student paper award in ACES-China2024! 
+- *2024.08*: &nbsp;🎉🎉 I am greatly honored to have won the 1st prize of best student paper award in ACES-China2024! 
 - *2024.07*: &nbsp;🎉🎉 I am greatly honored to receive the Jiachi Yang Academician Scholarship! 
 - *2024.07*: &nbsp;🎉🎉 One paper (first author) on non-contact vital sign detection for multiple persons at short-range is accepted by ACES-China2024!
 - *2024.03*: &nbsp;🎉🎉 One paper (first author) on millimeter-wave radar real-time human positioning system is accepted by ICMMT2024! 
@@ -378,7 +378,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
   </div>
  <div style="flex: 1;">
     <h2 style="margin: 0;">
-      <a href="https://ieeexplore.ieee.org/author/37088801565" style="color: black; text-decoration: none;">
+      <a href="https://ieeexplore.ieee.org/document/11644770" style="color: black; text-decoration: none;">
         Binary Phase Modulation FMCW Radar for High-Performance Multiperson Cardiac-Induced Thoracic Micro-Motion Sensing
       </a>
         <br>
@@ -422,17 +422,18 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
  <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/11333886" style="color: black; text-decoration: none;">
-        A Double L-Shaped 4D MIMO Radar Array with Optimal Subspace-Based Angular Resolution
+        A Double L-Shaped 4-D MIMO Radar Array With Optimal Subspace-Based Angular Resolution
       </a>
     </h2>
     <p style="margin: 0;">Yuchen Li, <strong>Jiayu Zhang</strong> and Changzhan Gu*</p>
-    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2025</strong></em></p>
+    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2026</strong></em></p>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
       <li>This paper presents an optimal angular resolution array design method for 4D MIMO radar systems, leveraging subspace-based direction-of-arrival (DOA) estimation algorithms.</li>
       <li>Among various topologies, the L-shaped structure provides a favorable balance between aperture utilization and noise robustness. Specifically, for a uniform planar array, the angular resolution improves with larger apertures along two orthogonal axes, while the L-shaped configuration achieves the best angular anti-noise performance under the same aperture size. A 4T8R MIMO radar prototype is designed and fabricated, demonstrating angular resolutions of 8.4° and 6.1° in the theta and phi planes, respectively.</li>
     </ul>
   </div>
 </div>
+
 
 
 
@@ -463,17 +464,19 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
  <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/11222828" style="color: black; text-decoration: none;">
-        Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement Motion Sensing with FMCW Radar
+        Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement Motion Sensing With FMCW Radar
       </a>
     </h2>
     <p style="margin: 0;">Zhiwei Zhang, Jingtao Liu, <strong>Jiayu Zhang</strong>, Yijing Guo and Changzhan Gu*</p>
-    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2025</strong></em></p>
+    <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2026</strong></em></p>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
       <li>This paper presents the first investigation into the influence of NLFM on displacement motion sensing, supported by theoretical derivations, simulation, and experimental validations.</li>
       <li>Building on demonstrating motion‐sensing robustness against NLFM, a VCO in open-loop FMCW radar architecture is validated for displacement motion sensing. Comparative experiments show that, despite reduced hardware complexity, this architecture achieves performance on par with VCO in closed‐loop FMCW radar, with normalized root mean square error (NRMSE) difference below 1.6%.</li>
     </ul>
   </div>
 </div>
+
+
 
 
 ------
@@ -498,16 +501,17 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
  <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/11320983" style="color: black; text-decoration: none;">
-        A Novel DC Offsets Calibration Technique for Detecting Small Displacement Motions with Microwave Interferometric Radar
+        A Novel DC Offsets Calibration Technique for Detecting Small Displacement Motions With Microwave Interferometric Radar
       </a>
     </h2>
     <p style="margin: 0;">Yiyan Cao, Yuchen Li, <strong>Jiayu Zhang</strong> and Changzhan Gu*</p>
-    <p style="margin: 0;"><em><strong>IEEE Microwave and Wireless Technology Letters, 2025</strong></em></p>
+    <p style="margin: 0;"><em><strong>IEEE Microwave and Wireless Technology Letters, 2026</strong></em></p>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
       <li>This paper proposes a novel digital pre-processing technique of spatio-initialized geometric Kalman DC offsets calibration (SIGK-DCC) compensating DC offsets directly from noisy quadrature I/Q trajectories, which leverages the spatial distribution of the I/Q signals for reliable initialization, followed by geometric Kalman filtering for iterative refinement.</li>
       <li>Simulation and experiments were carried out to validate the proposed technique, demonstrating a normalized root mean square error (NRMSE) of displacement of 0.078 when measuring motion of only 0.01λ under a SNR of 31.19 dB, achieving a 50% improvement over the best existing methods and thereby confirming its efficacy in detecting small displacement motions.</li>
     </ul>
   </div>
+
 
 
 </div>
@@ -620,7 +624,6 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       font-weight: bold;
     ">60-GHz 4T4R Sparse MIMO radar system</div>
   </div>
-
   <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a style="color: black; text-decoration: none;">
@@ -629,10 +632,11 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
     </h2>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
       <li>The system uses Silicon T4R4_060_096 and ADF4159 chips for the RF design, enabling FMCW or CW operating modes.</li>
-      <li>An AI-assisted genetic algorithm was used to optimize the array layout, resulting in a 4T4R sparse array with an azimuth angular resolution of 5.1°, a 90° field of view, and a sidelobe level of −10 dB.</li>
+      <li>An AI-assisted genetic algorithm was used to optimize the array layout, resulting in a 4T4R sparse array with an azimuth angular resolution of 5.1°, a 100° field of view, and a sidelobe level of −10 dB.</li>
       <li>This system supports multi-target vital-sign monitoring and point-cloud-based gait trajectory tracking, providing a high-performance platform for short-range millimeter-wave sensing applications.</li>
     </ul>
   </div>
+
 
 
 
@@ -813,7 +817,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 - *2026.02* I became a reviewer for  [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim)
 - *2026.01* I became a reviewer for  [IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7397573)
 - *2025.06* I conducted a report titled [Microwave Biomedical Radar for Clinical Applications](https://2025.ims-ieee.org/technical-program/workshops?date=2025-06-16) in IMS2025 workshop "Unseen Insights: Radar and the Future of Human Sensing"
-- *2025.01 - 2026.01*  Chairman of IEEE-MTT Student Branch Chapter (SBC) in Shanghai, IEEE Microwave Theory and Techniques Society
+- *2025.01 - 2027.01*  Chairman of IEEE-MTT Student Branch Chapter (SBC) in Shanghai, IEEE Microwave Theory and Techniques Society
 - *2024.12* I became a reviewer for  [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)
 - *2024.09* I was a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)
 - *2023.03 - 2025.01* Academic Director of Shanghai Student Branch, IEEE Microwave Theory and Techniques Society
