@@ -23,7 +23,7 @@ I am the Chairman of the IEEE-MTT Student Branch Chapter (SBC) in Shanghai. I ha
 
 My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar systems and sensing techniques. I have published more than 30 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation Program of China.
 
-# 📖 Educations
+# 📖 Education
 
 - *2022.09 - Present*, *Ph.D* in Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China
 
@@ -49,11 +49,11 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 - *2026.02*: &nbsp;🎉🎉 I became a reviewer for [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim)!
 - *2026.02*: &nbsp;🎉🎉 I am greatly honored to receive the IEEE MTT-S Graduate Fellowship Award!
 - *2026.02*: &nbsp;🎉🎉 One paper on the vital sign monitoring with K-band biomedical radar is accepted by IEEE RadarConf2026! 
-- *2026.01*: &nbsp;🎉🎉 I am greatly honored to selected for the 2nd prize of outstanding student of microwave & microelectronics integration center in Shanghai Jiao Tong University!
+- *2026.01*: &nbsp;🎉🎉 I am greatly honored to be selected for the 2nd prize of outstanding student of microwave & microelectronics integration center in Shanghai Jiao Tong University!
 - *2026.01*: &nbsp;🎉🎉 I became a reviewer for [IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7397573)!
 - *2025.12*: &nbsp;🎉🎉 One paper on the double L-shaped 4D MIMO radar array with optimal subspace-based angular resolution is accepted by T-MTT! Congrats to Yuchen!
 - *2025.12*: &nbsp;🎉🎉 One paper on the DC offsets calibration technique for detecting small displacement motions with microwave interferometric radar is accepted by MWTL! Congrats to Yiyan!
-- *2025.12*: &nbsp;🎉🎉 I am greatly honored to selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (Cultivated by the Chinese Institute of Electronics)!
+- *2025.12*: &nbsp;🎉🎉 I am greatly honored to be selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (Cultivated by the Chinese Institute of Electronics)!
 - *2025.10*: &nbsp;🎉🎉 One paper on the impact of frequency nonlinearity with displacement motion sensing based on FMCW radar is accepted by T-MTT! Congrats to Zhiwei!
 - *2025.09*: &nbsp;🎉🎉 I am greatly honored to receive the National Scholarship!
 - *2025.09*: &nbsp;🎉🎉 One paper (first author) on multitarget microwave cardiogram sensing using 4-D beamforming technique based on a K-Band short-range end-to-end 4T8R sparse MIMO FMCW radar system is accepted by T-MTT!
@@ -66,9 +66,9 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 - *2025.04*: &nbsp;🎉🎉 Two papers (first author) on range-angle decoupling and high-precision motion sensing of close-spaced targets are accepted by MWTL and Sensors Journal, respectively!
 - *2025.02*: &nbsp;🎉🎉 One paper (first author) on range-angle decoupling in IMS2025 was selected as a Top 50 Paper and invited for submission to MWTL!
 - *2025.02*: &nbsp;🎉🎉 Three papers (first author) on DCG sensing, range-angle decoupling and large-scale motion sensing are accepted by IMS2025! 
-- *2025.01*: &nbsp;🎉🎉 I became the Chairman of IEEE-MTT Student Branch Chapter (SBC) in Shanghai, [IEEE Microwave Theory and Technology Society](https://mtt.org/)！
+- *2025.01*: &nbsp;🎉🎉 I became the Chairman of IEEE-MTT Student Branch Chapter (SBC) in Shanghai, [IEEE Microwave Theory and Techniques Society](https://mtt.org/)！
 - *2024.12*: &nbsp;🎉🎉 I became a reviewer for  [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)！
-- *2024.09*: &nbsp;🎉🎉 I serving as a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)！
+- *2024.09*: &nbsp;🎉🎉 I served as a TPC-Member for [2024 IEEE International Conference on Signal, Information and Data Processing](http://icsidp.org/index.asp)！
 - *2024.08*: &nbsp;🎉🎉 I am greatly honored to won the 1st prize of best student paper award in ACES-China2024! 
 - *2024.07*: &nbsp;🎉🎉 I am greatly honored to receive the Jiachi Yang Academician Scholarship! 
 - *2024.07*: &nbsp;🎉🎉 One paper (first author) on non-contact vital sign detection for multiple persons at short-range is accepted by ACES-China2024!
@@ -189,7 +189,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
  <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/11195963" style="color: black; text-decoration: none;">
-        Accurate Multitarget Microwave Cardiogram Sensing Using 4-D Beamforming Technique Based on a K-Band Short-Range End-to-End 4T8R Sparse MIMO FMCW Radar System
+        Accurate Multitarget Microwave Cardiogram Sensing With 4-D Digital Beamforming Technique Based on a K-Band Short-Range End-to-End 4T8R Sparse MIMO FMCW Radar System
       </a>
     </h2>
     <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Yuchen Li, Yiyan Cao, Zhiwei Zhang, Changzhan Gu* and Junfa Mao</p>
@@ -199,6 +199,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>This novel 4D beamforming technology enables accurate 3D multi-target localization and 1D microwave cardiogram motion sensing, and can efficiently remove respiratory motion interference in a linear and distortion-free manner. This approach is validated using a custom-designed 24 GHz 4T8R sparse MIMO FMCW radar system and applied to multi-target microwave cardiogram sensing in both sitting and lying postures.</li>
     </ul>
   </div>
+
 
 
 
@@ -226,7 +227,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
  <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/11005633" style="color: black; text-decoration: none;">
-        Frequency-Domain Leakages and Stationary Clutters Cancellation Technique With a K-Band Short-Range End-to-end Sparse MIMO FMCW Radar System
+        Frequency-Domain Leakage and Stationary Clutter Cancellation Technique With a K-Band Short-Range End-to-End Sparse MIMO FMCW Radar System
       </a>
     </h2>
     <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Zhiwei Zhang, Yuchen Li, Changzhan Gu* and Junfa Mao</p>
@@ -236,6 +237,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>The frequency-domain characteristics of the intermediate frequency (IF) signal are used to effectively remove interference targets such as leakage and static clutter, enabling accurate target detection. This approach is validated using a custom-designed 24 GHz sparse MIMO FMCW radar system and applied to multi-person point cloud trajectory detection in indoor environments.</li>
     </ul>
   </div>
+
 
 
 </div>
@@ -264,7 +266,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
  <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/10965885" style="color: black; text-decoration: none;">
-        Reconfigurable Frequency-Spatial Equivalent Array Based on FMCW Radar for Accurate Close-Spaced Multi-Targets Motions Sensing
+        Reconfigurable Frequency-Spatial Equivalent Array Based on FMCW Radar for Accurate Close-Spaced Multitargets Motion Sensing
       </a>
     </h2>
     <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Zhiwei Zhang, Yuchen Li, Changzhan Gu* and Junfa Mao</p>
@@ -274,6 +276,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>Utilizing frequency-spatial equivalent arrays and adaptive frequency domain beamforming technology to achieve close-spaced target resolution and reduce spectral mutual interference of targets for high-precision motion demodulation.</li>
     </ul>
   </div>
+
 
 
 </div>
@@ -302,7 +305,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
  <div style="flex: 1;">
     <h2 style="margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/10966424" style="color: black; text-decoration: none;">
-        Frequency-Spatial Adaptive Beamforming Technique for Range-Angle Decoupling With High-Resolution MIMO Radar
+        Frequency-Spatial Adaptive Digital Beamforming Technique for Range-Angle Decoupling With High-Resolution MIMO Radar
       </a>
     </h2>
     <p style="margin: 0;"><strong>Jiayu Zhang</strong>, Yuchen Li, Zhiwei Zhang, Changzhan Gu* and Junfa Mao</p>
@@ -312,6 +315,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>Utilizing frequency-space adaptive beamforming technology to improve system resolution (in range and angle) is of significant importance for autonomous driving applications.</li>
     </ul>
   </div>
+
 
 </div>
 
@@ -417,7 +421,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
   </div>
  <div style="flex: 1;">
     <h2 style="margin: 0;">
-      <a href=" " style="color: black; text-decoration: none;">
+      <a href="https://ieeexplore.ieee.org/document/11333886" style="color: black; text-decoration: none;">
         A Double L-Shaped 4D MIMO Radar Array with Optimal Subspace-Based Angular Resolution
       </a>
     </h2>
@@ -436,8 +440,8 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 
 
 
-------
 
+------
 
 
 
@@ -458,7 +462,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
   </div>
  <div style="flex: 1;">
     <h2 style="margin: 0;">
-      <a href=" " style="color: black; text-decoration: none;">
+      <a href="https://ieeexplore.ieee.org/document/11222828" style="color: black; text-decoration: none;">
         Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement Motion Sensing with FMCW Radar
       </a>
     </h2>
@@ -470,6 +474,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
     </ul>
   </div>
 </div>
+
 
 ------
 
@@ -492,7 +497,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
   </div>
  <div style="flex: 1;">
     <h2 style="margin: 0;">
-      <a href=" " style="color: black; text-decoration: none;">
+      <a href="https://ieeexplore.ieee.org/document/11320983" style="color: black; text-decoration: none;">
         A Novel DC Offsets Calibration Technique for Detecting Small Displacement Motions with Microwave Interferometric Radar
       </a>
     </h2>
@@ -503,6 +508,7 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
       <li>Simulation and experiments were carried out to validate the proposed technique, demonstrating a normalized root mean square error (NRMSE) of displacement of 0.078 when measuring motion of only 0.01λ under a SNR of 31.19 dB, achieving a 50% improvement over the best existing methods and thereby confirming its efficacy in detecting small displacement motions.</li>
     </ul>
   </div>
+
 
 </div>
 
@@ -533,13 +539,14 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
         Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique
       </a>
     </h2>
-    <p style="margin: 0;">Zhiwei Zhang, <strong>Jiayu Zhang</strong>, Jingtao Liu, Changzhan Gu* and Junfa Mao</p>
+    <p style="margin: 0;">Zhiwei Zhang, <strong>Jiayu Zhang</strong>, Jingtao Liu, Yuchen Li and Changzhan Gu*</p>
     <p style="margin: 0;"><em><strong>IEEE Transactions on Microwave Theory and Techniques, 2024</strong></em></p>
     <ul style="list-style-type: disc; padding-left: 20px;margin-top: 10;">
       <li>This technology can be applied to enhance motion sensing in millimeter-wave radar.</li>
       <li>Using equivalent FMCW radar technology, the equivalent signal wavelength can be arbitrarily increased or decreased to achieve precise demodulation of large or small displacements. This improves the accuracy of small displacement detection by three times and the accuracy of large displacement detection by ten times.</li>
     </ul>
   </div>
+
 
 
 </div>
@@ -553,14 +560,14 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">EUMC2026</span> Yiyan Cao, **Jiayu Zhang** and Changzhan Gu\*, “A low-complexity Range-Dependent Resampling Technique for Accurate Large-Scale Motion Sensing Based on FMCW Radar Systems,” ***IEEE European Microwave Conference (EuMC), 2026.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2026</span> **Jiayu Zhang**, Changzhan Gu\* and Junfa Mao, “Target Detection Based on Frequency-Domain Interference Mitigation Technique With a V-Band Short-Range MIMO FMCW Radar System,” ***IEEE MTT-S International Wireless Symposium (IWS), 2026.*** <font color='Apricot'>(Selected for the MVC Competition Finalist)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">RadarConf2026</span> **Jiayu Zhang**, Changzhan Gu\* and Junfa Mao, “Accurate Heart Rate Monitoring With Frequency-Domain Motion Reconstruction Technique Based on K-Band Biomedical Radar,” ***IEEE Radar Conference (RadarConf26), 2026.***
-- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2026</span> Yiyan Cao, **Jiayu Zhang** and Changzhan Gu\*, “Deep-Learning-Based High-Efficient Sparse Array Design for a K-Band Short-Range MIMO Radar System,” ***IEEE MTT-S International Microwave Symposium (IMS), 2026.***
+- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2026</span> Yiyan Cao, **Jiayu Zhang** and Changzhan Gu\*, “Deep-Learning-Based High-Efficient Sparse Array Design for a K-Band Short-Range MIMO Radar System,” ***IEEE MTT-S Radio Frequency Systems and Applications Symposium (IMS RFSA), 2026.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">CSRSWTC2025</span> Zhiwei Zhang, **Jiayu Zhang**, Jingtao Liu, Liling Wang and Changzhan Gu\*, “A Low-Complexity FMCW Radar Sensor for Short-Range Vital Sign Detection,” ***Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2025.*** <font color='Apricot'>(Best Paper Award)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">NCANT2025</span> 张志伟, **张嘉宇** 和 顾昌展\*, “一种基于FOWLP工艺的60 GHz宽带背腔封装天线,” ***全国天线年会(NCANT), 2025.*** <font color='Apricot'>(Selected for the Best Student Paper Finalist)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">APMC2025</span> **Jiayu Zhang**, Yuchen Li, Zhiwei Zhang, Yiyan Cao, Changzhan Gu\* and Junfa Mao, “*A Portable K-Band 4-D MIMO FMCW Radar System with Sparse Array for Short-Range Dual-Hand Gesture Sensing*,” ***IEEE Asia-Pacific Microwave Conference (APMC), 2025.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">APMC2025</span> Zhiwei Zhang, Keke Zheng, **Jiayu Zhang**, Yijing Guo and Changzhan Gu\*, “*Robust Heart-Rate Monitoring Under Sleep Postural Variability Using a 24-GHz MIMO FMCW Radar*,” ***IEEE Asia-Pacific Microwave Conference (APMC), 2025.***
-- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">APMC2025</span> Keke Zheng, Zhiwei Zhang, **Jiayu Zhang**, Yijing Guo, Liling Wang and Changzhan Gu\*, “*A Robust and Accurate Sleep Apnea Detection Framework Based on a K-Band FMCW MIMO Radar*,” ***IEEE Asia-Pacific Microwave Conference (APMC), 2025.***
+- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">APMC2025</span> Keke Zheng, Zhiwei Zhang, **Jiayu Zhang**,  Liling Wang, Yijing Guo and Changzhan Gu\*, “*A Robust and Accurate Sleep Apnea Detection Framework Based on a K-Band FMCW MIMO Radar*,” ***IEEE Asia-Pacific Microwave Conference (APMC), 2025.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">NCMMW2025</span> **张嘉宇**, 顾昌展\* 和 毛军发, “K波段2T4R稀疏MIMO FMCW雷达系统的设计与应用,” ***全国微波毫米波会议(NCMMW), 2025.*** <font color='Apricot'>(Best Student Paper Award, 3rd Prize)</font>
-- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2025</span> Yiyan Cao, **Jiayu Zhang** and Changzhan Gu\*, “Accurate Infant Respiratory Monitoring and Apnea Detection System With Time-Domain Enhancement Technique Based on FMCW radar,” ***IEEE MTT-S International Wireless Symposium (IWS), 2025.*** <font color='Apricot'>(IEEE MTT-S MVC Competition Third Place Winner)</font>
+- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2025</span> Yiyan Cao, **Jiayu Zhang**, Changzhan Gu\* and Junfa Mao, “Accurate Infant Respiratory Monitoring and Apnea Detection System With Time-Domain Enhancement Technique Based on FMCW radar,” ***IEEE MTT-S International Wireless Symposium (IWS), 2025.*** <font color='Apricot'>(IEEE MTT-S MVC Competition Third Place Winner)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">ICMMT2025</span> Keke Zheng, **Jiayu Zhang**, Jingtao Liu, Changzhan Gu\* and Junfa Mao, “Extended Maximum Measurable Range via Fewer Sample points Using Sparse-Sampling CBF Frequency Estimation in FMCW Radar,” ***International Conference on Microwave and Millimeter Wave Technology (ICMMT), 2025.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2025</span> **Jiayu Zhang**, Shuqin Dong, Yuchen Li, Yiyan Cao, Zhiwei Zhang, Changzhan Gu\* and Junfa Mao, “Accurate Doppler Cardiogram Sensing With Frequency-Domain Digital Beamforming Technique Based on a K-Band Biomedical Radar,” ***IEEE MTT-S International Microwave Symposium (IMS), 2025.***
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2025</span> **Jiayu Zhang**, Zhiwei Zhang, Yuchen Li, Changzhan Gu\* and Junfa Mao, “Accurate Large-Scale Motion Sensing With FMCW Radar Based on Range-Dependent DFT Technique,” ***IEEE MTT-S International Microwave Symposium (IMS), 2025.***
@@ -571,8 +578,8 @@ My research interests include 4-D sparse MIMO FMCW millimeter-wave  radar system
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2024</span> Zhiwei Zhang, Fei Tong, **Jiayu Zhang** and Changzhan Gu\*, “A Cost-Effective Single-Channel Displacement Measurement Technique Without Down-Conversion Using Low-IF Doppler Radar,” ***IEEE MTT-S International Microwave Symposium (IMS), 2024.*** 
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2023</span> **Jiayu Zhang**, Yuchen Li, Wenjie Li, Zhiwei Zhang, Changzhan Gu\* and Junfa Mao, “Multi-Chirps Convolution Technique for Range Spectrum Signal Enhancement Based on a 60-GHz MIMO FMCW Radar,” ***IEEE MTT-S International Wireless Symposium (IWS), 2023.*** <font color='Apricot'>(Selected for the MVC Competition Finalist)</font>
 - <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2023</span> Zhiwei Zhang, **Jiayu Zhang**, Jingtao Liu, Changzhan Gu\* and Junfa Mao, “Accurate Heart Rate Estimation Based on Multi-Channel Cross-Correlation with a 60-GHz FMCW Radar,” ***IEEE MTT-S International Wireless Symposium (IWS), 2023.*** <font color='Apricot'>(Selected for the Flash Competition Finalist)</font>
-- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2023</span> Wenjie Li, Yuchen Li, **Jiayu Zhang**, jingyun Lu, Changzhan Gu\* and Junfa Mao, “A Receiver Reconfigurable Method for Indoor Human Detection with 60GHz MIMO FMCW Radar,” ***IEEE MTT-S International Wireless Symposium (IWS), 2023.*** <font color='Apricot'>(Selected for the MVC Competition Finalist)</font>
-- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2023</span> Wenjie Li, Yuchen Li, **Jiayu Zhang**, Shuqin Dong, jingyun Lu, Changzhan Gu\* and Junfa Mao, “A Feature-based Filtering Algorithm with 60GHz MIMO FMCW Radar for Indoor Detection and Trajectory Tracking,” ***IEEE MTT-S International Microwave Symposium (IMS), 2023.***
+- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IWS2023</span> Wenjie Li, Yuchen Li, **Jiayu Zhang**, Jingyun Lu, Changzhan Gu\* and Junfa Mao, “A Receiver Reconfigurable Method for Indoor Human Detection with 60GHz MIMO FMCW Radar,” ***IEEE MTT-S International Wireless Symposium (IWS), 2023.*** <font color='Apricot'>(Selected for the MVC Competition Finalist)</font>
+- <span style="  background-color: #00369F; /* 背景颜色 */  color: #fff; /* 字体颜色 */  padding: 0.5px 5px;  border-radius: 3px;  font-size: 12px;  display: inline-block; ">IMS2023</span> Wenjie Li, Yuchen Li, **Jiayu Zhang**, Jingyun Lu, Shuqin Dong,  Changzhan Gu\* and Junfa Mao, “A Feature-based Filtering Algorithm with 60GHz MIMO FMCW Radar for Indoor Detection and Trajectory Tracking,” ***IEEE MTT-S International Microwave Symposium (IMS), 2023.***
 
 ------
 
